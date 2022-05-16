@@ -25,7 +25,7 @@ class mycontext(ContextDecorator):
         if self.file is not None:
             self.file.write(f'Stop time of execute: {datetime.datetime.now()} \n')
         print('Finishing')
-        # return False
+        return False
 
 
 @mycontext()
