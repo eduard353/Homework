@@ -18,7 +18,7 @@ class mycontext(ContextDecorator):
 
         except Exception as ex:
             print(f'Somthing was wrong {ex}')
-    
+
         return self
 
     def __exit__(self, *exc):
