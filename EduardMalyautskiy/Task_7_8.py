@@ -17,4 +17,5 @@ lst = [1, 2, 3, 4, 5]
 itr = MySquareIterator(lst)
 for item in itr:
     print(item)
+
 # 1 4 9 16 25
