@@ -3,7 +3,6 @@ from contextlib import contextmanager
 
 @contextmanager
 def open_file(filename, mode='r'):
-
     file = None
 
     try:
@@ -23,7 +22,3 @@ def open_file(filename, mode='r'):
 
 with open_file('1.txt') as f:
     print(f.read())
-    f.apend()
-
-
-

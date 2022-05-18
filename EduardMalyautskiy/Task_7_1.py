@@ -5,8 +5,6 @@ class OpenFile:
         self.mode = mode
         self.file = None
 
-
-
     def __enter__(self):
         try:
             self.file = open(self.filename, self.mode)
@@ -17,14 +15,11 @@ class OpenFile:
     def __exit__(self, exception, value, trace):
         if self.file is not None:
             self.file.close()
+        if exception is not None:
 
-        print('Exit')
-        print(f"ERROR: {(exception)}")
-
-
-
+            print('Exit')
+            print(f"ERROR: {(value)}")
 
 
 with OpenFile('2.txt') as f:
     print(f.read())
-

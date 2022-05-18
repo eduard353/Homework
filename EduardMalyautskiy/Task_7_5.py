@@ -1,7 +1,5 @@
 class MyCustomException(Exception):
-
-    def __init__(self, text):
-        self.text = text
+    pass
 
 
 class NoValue(MyCustomException):
@@ -33,3 +31,4 @@ def check_even(number=None):
         return False
 
 
+check_even('dsdsd')
