@@ -39,5 +39,3 @@ def main_prog():
         else:
             print('Введено нечетное число, попробуйте снова. \n')
 
-if __name__ == '__main__':
-    main_prog()

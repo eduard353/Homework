@@ -18,7 +18,19 @@ class TestGoldbachMock(TestCase):
         self.assertFalse(check_even('qwerq'))
         self.assertFalse(check_even([1,2,3]))
 
-    # @patch('Task_7_6.get_value', return_value =8)
+
+    def test_goldbah(self):
+        self.assertTrue(goldbach(12))
+        self.assertFalse(goldbach(177))
+
+    @patch('builtins.input', return_value = 8)
+    def test_get_value(self, inp):
+        self.assertEqual(get_value(), 8)
+
     @patch('Task_7_6.get_value', return_value='q')
-    def test_main_prog(self,input):
-        self.assertTrue(main_prog())
+    def test_exit_main_prog(self, get_value):
+        self.assertEqual(main_prog(), None)
+
+    @patch('Task_7_6.get_value', side_effect = [8, 10, 11 ,12, 'we', 'q'])
+    def test_main_prog(self, get_val):
+        self.assertIn(main_prog(), [True, None])
