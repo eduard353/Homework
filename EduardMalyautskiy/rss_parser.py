@@ -3,7 +3,7 @@ import sys
 from bs4 import BeautifulSoup
 import requests
 import logging
-import parser_exceptions
+from parser_exceptions import *
 import json
 from dateutil.parser import parse
 
@@ -59,19 +59,18 @@ class ReadRss:
 
         self.articles_dicts = ReadRss.items_to_dict(self.articles, self.tags, self.limit)
 
-
     @staticmethod
     def get_rss(url):
         """Функция получения данных из RSS ленты"""
         try:
-            response= requests.get(url, headers={
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
-        })
+            response = requests.get(url, headers={
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
+            })
 
             if response.status_code != 200:
-                raise parser_exceptions.RequestProblem
+                raise RequestProblem
 
-        except parser_exceptions.RequestProblem:
+        except RequestProblem:
             print_and_exit(f'Error receiving data from the server: {url}\n'
                            f'Response code received: {response.status_code}\n'
                            f'Check the correctness of the URL address')
@@ -87,35 +86,37 @@ class ReadRss:
 
     @staticmethod
     def parse_rss(response):
-
+        if isinstance(response, requests.Response):
+            response = response.text
         try:
-            soup = BeautifulSoup(response.text, 'xml')
+            soup = BeautifulSoup(response, 'xml')
 
             if not soup.find('rss'):
-                raise parser_exceptions.NotRSSException
+                raise NotRSSException
 
-        except parser_exceptions.NotRSSException as e:
+        except NotRSSException as e:
             print_and_exit('There are not RSS feed link\n'
                            'Check the correctness of the URL address')
 
 
         except Exception as e:
             print_and_exit('Could not parse the rss')
-            print(e)
+            print(e.msg)
 
         # self.encoding = self.soup.contents[0].replace('xml version="1.0" encoding="', '').replace('"?', '')
 
         try:
             feed = soup.find('channel').find('title').text
             articles = soup.findAll('item')
-            if articles is None:
-                raise parser_exceptions.NoItemsException
-        except parser_exceptions.NoItemsException as e:
-            print_and_exit('There are no items in RSS')
+
+            if articles is None or articles == []:
+                raise NoItemsException
+        except NoItemsException as e:
+            print_and_exit('There are no items in RSS. Check the correctness of the URL address   ')
 
         except AttributeError as e:
             print_and_exit('Incorrect RSS structure, missing channel title tag')
-        print(articles)
+
         return (feed, articles)
 
     @staticmethod
@@ -126,21 +127,22 @@ class ReadRss:
             if tag == '\n' or tag.name is None:
                 continue
             tags.add(tag.name)
+
         return tags
 
     @staticmethod
     def items_to_dict(articles, tags, limit=None):
         articles_dicts = []
         for a in articles[:limit]:
-            # print(a)
+
             item_to_dict = dict()
             for tag in tags:
                 try:
                     text = ReadRss.formatdata(str(a.find(tag).text))
                     if text is not None and text != '':
-                        if tag == 'pubdate':
-                            print(parse(text).date())
-                            item_to_dict[tag] = parse(text).date().strftime('%Y.%m.%d')
+                        if tag.lower() == 'pubdate':
+
+                            item_to_dict[tag.lower()] = parse(text).date().strftime('%Y.%m.%d')
                         else:
                             item_to_dict[tag] = text
                         # item_to_dict[tag] = text
@@ -155,6 +157,8 @@ class ReadRss:
                     print(f'Could not find tag "{tag}" in item. Skip it.')
 
             articles_dicts.append(item_to_dict)
+            # with open('articles_in_json.txt', 'w', encoding='utf-8') as f:
+            #     f.write(json.dumps(articles_dicts, ensure_ascii=False))
         return articles_dicts
 
     def print_data(self):
