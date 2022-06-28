@@ -1,7 +1,7 @@
 class NoItemsException(Exception):
     pass
 
-class NoXMLException(Exception):
+class NotRSSException(Exception):
     pass
 
 class RequestProblem(Exception):

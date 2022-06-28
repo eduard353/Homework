@@ -3,13 +3,13 @@ import sys
 from bs4 import BeautifulSoup
 import requests
 import logging
-import parser_exceptions
+from parser_exceptions import *
 import json
 from dateutil.parser import parse
 
 VERSION = '0.9.1'
 
-headers = {
+HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
 }
 
@@ -26,7 +26,7 @@ keys_dict = {
 }
 
 
-def parse_cli_args():
+def parse_cli_args(commands=None):
     """
     Функция для парсинга параметров командной строки
     """
@@ -36,7 +36,7 @@ def parse_cli_args():
     parser.add_argument('--json', action='store_true', help='Print result as JSON in stdout')
     parser.add_argument('--verbose', action='store_true', help='Outputs verbose status messages')
     parser.add_argument('--limit', type=int, help='Limit news topics if this parameter provided')
-    return parser.parse_args()
+    return parser.parse_args(commands)
 
 
 def print_and_exit(msg):
@@ -50,77 +50,99 @@ class ReadRss:
     Класс парсера RSS ленты
     """
 
-    def __init__(self, rss_url, limit, headers):
+    def __init__(self, rss_url, limit):
 
         self.url = rss_url
-        self.headers = headers
+        self.feed, self.articles = ReadRss.parse_rss(ReadRss.get_rss(rss_url))
         self.limit = limit
-        self.tags = set()
-        self.feed = ''
-        self.articles_dicts = []
+        self.tags = ReadRss.get_tags(self.articles)
 
-    def get_rss(self):
+        self.articles_dicts = ReadRss.items_to_dict(self.articles, self.tags, self.limit)
+
+    @staticmethod
+    def get_rss(url):
         """Функция получения данных из RSS ленты"""
         try:
-            self.r = requests.get(self.url, headers=self.headers)
+            response = requests.get(url, headers={
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0'
+            })
 
-            if self.r.status_code != 200:
-                raise parser_exceptions.RequestProblem
+            if response.status_code != 200:
+                raise RequestProblem
 
-        except parser_exceptions.RequestProblem:
-            print_and_exit(f'Error receiving data from the server: {self.url}\n'
-                           f'Response code received: {self.r.status_code}\n'
+        except RequestProblem:
+            print_and_exit(f'Error receiving data from the server: {url}\n'
+                           f'Response code received: {response.status_code}\n'
                            f'Check the correctness of the URL address')
 
         except requests.exceptions.HTTPError as http_err:
             print_and_exit(f'HTTP error occurred: {http_err}')
 
         except Exception as e:
-            print_and_exit(f'Error fetching the data from URL: {self.url}\n'
+            print_and_exit(f'Error fetching the data from URL: {url}\n'
                            f'Check the correctness of the URL address')
 
-        try:
-            self.soup = BeautifulSoup(self.r.text, 'lxml')
-            if 'xml' not in self.soup.contents[0]:
-                raise parser_exceptions.NoXMLException
+        return response
 
-        except parser_exceptions.NoXMLException as e:
+    @staticmethod
+    def parse_rss(response):
+        if isinstance(response, requests.Response):
+            response = response.text
+        try:
+            soup = BeautifulSoup(response, 'xml')
+
+            if not soup.find('rss'):
+                raise NotRSSException
+
+        except NotRSSException as e:
             print_and_exit('There are not RSS feed link\n'
                            'Check the correctness of the URL address')
 
 
         except Exception as e:
-            print_and_exit(f'Could not parse the xml: {self.url}')
+            print_and_exit('Could not parse the rss')
+            print(e.msg)
 
         # self.encoding = self.soup.contents[0].replace('xml version="1.0" encoding="', '').replace('"?', '')
 
         try:
-            self.feed = self.soup.find('channel').find('title').text
-            self.articles = self.soup.findAll('item')
-            if self.articles is None:
-                raise parser_exceptions.NoItemsException
-        except parser_exceptions.NoItemsException as e:
-            print_and_exit('There are no items in RSS')
+            feed = soup.find('channel').find('title').text
+            articles = soup.findAll('item')
+
+            if articles is None or articles == []:
+                raise NoItemsException
+        except NoItemsException as e:
+            print_and_exit('There are no items in RSS. Check the correctness of the URL address   ')
 
         except AttributeError as e:
             print_and_exit('Incorrect RSS structure, missing channel title tag')
 
-        for tag in self.articles[0].contents:
+        return (feed, articles)
+
+    @staticmethod
+    def get_tags(articles):
+        tags = set()
+        for tag in articles[0].contents:
             # print(tag)
             if tag == '\n' or tag.name is None:
                 continue
-            self.tags.add(tag.name)
+            tags.add(tag.name)
 
-        for a in self.articles[:self.limit]:
-            # print(a)
+        return tags
+
+    @staticmethod
+    def items_to_dict(articles, tags, limit=None):
+        articles_dicts = []
+        for a in articles[:limit]:
+
             item_to_dict = dict()
-            for tag in self.tags:
+            for tag in tags:
                 try:
-                    text = self.formatdata(str(a.find(tag).text))
+                    text = ReadRss.formatdata(str(a.find(tag).text))
                     if text is not None and text != '':
-                        if tag == 'pubdate':
-                            print(parse(text).date())
-                            item_to_dict[tag] = parse(text).date().strftime('%Y.%m.%d')
+                        if tag.lower() == 'pubdate':
+
+                            item_to_dict[tag.lower()] = parse(text).date().strftime('%Y.%m.%d')
                         else:
                             item_to_dict[tag] = text
                         # item_to_dict[tag] = text
@@ -134,7 +156,10 @@ class ReadRss:
                 except AttributeError as e:
                     print(f'Could not find tag "{tag}" in item. Skip it.')
 
-            self.articles_dicts.append(item_to_dict)
+            articles_dicts.append(item_to_dict)
+            # with open('articles_in_json.txt', 'w', encoding='utf-8') as f:
+            #     f.write(json.dumps(articles_dicts, ensure_ascii=False))
+        return articles_dicts
 
     def print_data(self):
         """Функция печати данных в командную строку"""
@@ -144,9 +169,9 @@ class ReadRss:
 
         for item in self.articles_dicts:
 
-            for tag in self.tags:
-                if keys_dict.get(tag) and item.get(tag):
-                    print(f'{keys_dict[tag]}: ', item.get(tag))
+            for key in keys_dict.keys():
+                if item.get(key):
+                    print(f'{keys_dict[key]}: ', item.get(key))
 
             print('-' * 60)
 
@@ -156,10 +181,8 @@ class ReadRss:
 
     @staticmethod
     def formatdata(data):
-        result = data.replace('\n', '').replace('\t', '').replace('<![CDATA[', '').replace(']]>', '')
+        result = data.replace('\n', '').replace('\t', '').replace('<![CDATA[', '').replace(']]>', '').strip()
         return result
-
-
 
 
 def run():
@@ -176,9 +199,7 @@ def run():
     else:
         logging.basicConfig(level=logging.INFO)
 
-    feed = ReadRss(namespace.source.replace("'", ''), namespace.limit, headers)
-
-    feed.get_rss()
+    feed = ReadRss(namespace.source.replace("'", ''), namespace.limit)
 
     if namespace.json:
         feed.print_json()

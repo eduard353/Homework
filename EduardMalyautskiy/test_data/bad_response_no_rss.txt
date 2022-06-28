@@ -1,0 +1,2417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Новости</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+    <link>https://lenta.ru</link>
+    <image>
+      <url>https://lenta.ru/images/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>https://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/dss+xml" href="http://lenta.ru/dss"/>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/covidd/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>В России выявили 2797 случаев коронавируса</title>
+  <link>https://lenta.ru/news/2022/06/14/covidd/</link>
+  <description>
+    <![CDATA[В России за последние сутки выявили 2797 случаев заражения коронавирусом. Общее число заболевших с начала пандемии достигло 18 382 380. Об этом сообщается на сайте оперативного штаба по борьбе с инфекцией во вторник, 14 июня. Днем ранее число выявленных случаев составило 2996.<br /><br />]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 11:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614083445011/pic_7e7992ce527706ae9cecb92b26c36857.jpg" type="image/jpeg" length="43264"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/na_pozicii/</guid>
+  <author>Анжелика Бережная</author>
+  <title>Турция заняла позиции для проведения операции в Сирии</title>
+  <link>https://lenta.ru/news/2022/06/14/na_pozicii/</link>
+  <description>
+    <![CDATA[Турецкие военные заняли боевые позиции для проведения операции на севере Сирии против членов запрещенной в стране Рабочей партии Курдистана (РПК). Вооруженные силы Турции действуют совместно с Сирийской национальной армией (оппозиционной протурецкой структурой — <i>прим. «Ленты.ру»</i>).]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 11:01:57 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614104741460/pic_82796b14ddac3173790aeaa3506c092c.jpeg" type="image/jpeg" length="130772"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/high/</guid>
+  <author>Платон Щукин</author>
+  <title>Инфляция в Германии побила рекорд прошлого века</title>
+  <link>https://lenta.ru/news/2022/06/14/high/</link>
+  <description>
+    <![CDATA[Инфляция в Германии выросла с 7,4 до 7,9 процента в годовом выражении, что стало наивысшим показателем с 1974 года, и таким образом побила рекорд прошлого века. Основными причинами стали подорожание энергоносителей и продуктов питания, а также разрыв логистических цепочек. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:59:08 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614105840708/pic_a9cfb0e3f0d8ef996b89503ff9cf58b0.jpg" type="image/jpeg" length="100639"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/zoa/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>Выступавший за «Спартак» чернокожий футболист вспомнил об избиении в Москве</title>
+  <link>https://lenta.ru/news/2022/06/14/zoa/</link>
+  <description>
+    <![CDATA[Бывший камерунский футболист Люк Зоа вспомнил, как в 2004 году его избили в Москве. «Я шел на тренировку через парк к остановке, где меня должен был забрать автобус. По дороге меня очень сильно избили незнакомцы. Они били в том числе ногами. Я очнулся в больнице с сотрясением мозга», — рассказал экс-игрок.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614104954259/pic_cdbde4e14dfe42997cf68249995e9c23.jpg" type="image/jpeg" length="44498"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/dragon/</guid>
+  <author>Иван Потапов</author>
+  <title>Запуск Dragon к МКС отложили на месяц из-за неисправностей</title>
+  <link>https://lenta.ru/news/2022/06/14/dragon/</link>
+  <description>
+    <![CDATA[Запуск американского грузового космического корабля Dragon к Международной космической станции (МКС) отложили минимум на месяц из-за неисправностей в двигательной системе. Об этом сообщает «Интерфакс». Изначально пуск был намечен на 10 июня. Теперь старт состоится не ранее 11 июля.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:56:41 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614105642364/pic_01940842094bb99abca2939589cbad5d.jpg" type="image/jpeg" length="79456"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/malolentnnn/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Ранее судимого россиянина отправили в СИЗО за изнасилование девочки в машине</title>
+  <link>https://lenta.ru/news/2022/06/14/malolentnnn/</link>
+  <description>
+    <![CDATA[В Москве 26-летнего уроженца Ульяновска отправили в СИЗО за изнасилование малолетней и насильственные действия сексуального характера в отношении нее. По данным следствия, вечером 9 июня фигурант, находясь в салоне автомобиля в Хорошевском районе, надругался над девочкой 2008 года рождения. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614104627662/pic_c9de742a43235bb6e4f62433169de979.jpg" type="image/jpeg" length="126734"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/iranerevan/</guid>
+  <author>Мария Гейн</author>
+  <title>Россиянам назвали оптимальную стоимость летнего отдыха в Армении</title>
+  <link>https://lenta.ru/news/2022/06/14/iranerevan/</link>
+  <description>
+    <![CDATA[Представители туристической индустрии назвали оптимальную стоимость туров в Армению летом, а также перечислили наиболее популярные форматы отдыха в стране. Как рассказал руководитель направления «Армения» туроператора PAC Group Денис Полушин, по сравнению с 2019 годом спрос на туры в страну вырос в 2,5 раза.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614103005955/pic_7df88b44f479d91eeef6b5b481b77422.jpg" type="image/jpeg" length="34200"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/azot_nm/</guid>
+  <author>Алевтина Запольская</author>
+  <title>В ЛНР назвали ложью сообщения Киева о попытке эвакуировать гражданских с «Азота»</title>
+  <link>https://lenta.ru/news/2022/06/14/azot_nm/</link>
+  <description>
+    <![CDATA[Заявления киевского руководства о попытках Вооруженных сил Украины (ВСУ) спасти гражданских с территории завода «Азот» под Северодонецком являются дезинформацией. С таким заявлением выступил подполковник Народной милиции ЛНР Андрей Марочко. Речь идет о боях за промзону населенного пункта.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614103722760/pic_656252b60cf5b7a38008a08acc4472e5.jpg" type="image/jpeg" length="72577"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/supermodel/</guid>
+  <author>Мария Винар</author>
+  <title>57-летняя модель показала лицо без макияжа</title>
+  <link>https://lenta.ru/news/2022/06/14/supermodel/</link>
+  <description>
+    <![CDATA[Американская супермодель Паулина Поризкова показала лицо без макияжа и восхитила фанатов. 57-летняя знаменитость поделилась кадрами из косметологического кабинета, на которых она предстала перед камерой в кофте с открытыми плечами и V-образным декольте. При этом видно, что на ее лице полностью отсутствует мейкап. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614102603159/pic_ca9dce730605a5948eb563fbf3ad884d.jpg" type="image/jpeg" length="51482"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/raskol_iz_za_pobedy/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Евросоюз раскололся из-за вопроса о «победе» Украины</title>
+  <link>https://lenta.ru/news/2022/06/14/raskol_iz_za_pobedy/</link>
+  <description>
+    <![CDATA[Главы стран Евросоюза разошлись во мнениях относительно того, должна ли Украина «одержать победу» над Россией и, в частности, о том, стоит ли наделять ее статусом кандидата на вступление в ЕС и ускорить поставки оружия. Как указывают авторы NYT, раскол связан с нежеланием «унижать Россию». ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:51:24 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614105828420/pic_0b2da8271fd4cb57dd0aacdb8ba896cb.jpg" type="image/jpeg" length="110549"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/leaks/</guid>
+  <author>Маргарита Щигарева</author>
+  <title>Названы главные причины утечек личных данных россиян</title>
+  <link>https://lenta.ru/news/2022/06/14/leaks/</link>
+  <description>
+    <![CDATA[В Минцифры назвали основные причины масштабных утечек персональных данных россиян, из-за которых, по оценке ведомства, происходят 70% подобных киберинцидентов. Как сообщалось ранее, в мае и июне 2022 года в даркнете было опубликовано рекордное количество баз данных российских компаний. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/11/20220614110011057/pic_e5451e9db7777d0e00f3bb098b206f3b.jpg" type="image/jpeg" length="19308"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sad/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Соседи рассказали о выбросившей из окна двух детей россиянке</title>
+  <link>https://lenta.ru/news/2022/06/14/sad/</link>
+  <description>
+    <![CDATA[Женщина из Челябинска, которая выбросила из окна шестого этажа двух детей и после покончила с собой, работала заместителем заведующей в детском саду. Такие подробности о россиянке рассказали ее соседи, сообщает Ura.ru. По их словам, женщина стала жить отдельно от мужа три месяца назад.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614102824070/pic_7fd8450abe15118a75276c7204f71bce.jpeg" type="image/jpeg" length="18960"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/johannesnetklaebo/</guid>
+  <author>Алексей Гусев</author>
+  <title>Клебо высказался об отсутствии Большунова на международных турнирах</title>
+  <link>https://lenta.ru/news/2022/06/14/johannesnetklaebo/</link>
+  <description>
+    <![CDATA[Пятикратный олимпийский чемпион по лыжным гонкам Йоханнес Клебо заявил, что не интересуется делами россиянина Александра Большунова. По словам норвежца, его не беспокоит отсутствие трехкратного победителя Игр на международных стартах. «Моей движущей силой всегда было соперничество с самим собой», — заявил он. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614101944014/pic_b2c105f551808420c3f6fa5086b937da.jpg" type="image/jpeg" length="88936"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/speras_dogovor/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Стали известны подробности брачного договора Бритни Спирс и ее мужа</title>
+  <link>https://lenta.ru/news/2022/06/14/speras_dogovor/</link>
+  <description>
+    <![CDATA[Стали известны подробности брачного договора 40-летней американской поп-певицы Бритни Спирс и ее третьего супруга, 28-летнего фитнес-тренера Сэма Асгари. Сообщается, что избранник артистки не получит ни одного цента от многомиллионного состояния Бритни, которое она заработала до свадьбы, если пара решит развестись.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614095930119/pic_2f6635301e9b5d86d067bc02dceff3e0.jpeg" type="image/jpeg" length="45637"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/poliggg/</guid>
+  <author>Анна Щербакова</author>
+  <title>В России построят первый мусорный полигон на вечной мерзлоте</title>
+  <link>https://lenta.ru/news/2022/06/14/poliggg/</link>
+  <description>
+    <![CDATA[В Якутске начали строить первый мусорный полигон на вечной мерзлоте. В республиканском министерстве ЖКХ и энергетики уточнили, что проектная мощность нового объекта составит 125 тысяч тонн твердых коммунальных отходов (ТКО) в год. По задумке авторов, полигон в Якутске будет поделен на две зоны.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614102609065/pic_f12a83ffd1558fa0e8acdb6eef639f6e.jpg" type="image/jpeg" length="67133"/>
+  <category>69-я параллель</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/school/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Россиянам назвали способы психологически подготовить первоклассника к школе</title>
+  <link>https://lenta.ru/news/2022/06/14/school/</link>
+  <description>
+    <![CDATA[Эксперт в сфере педагогики Надежда Болдова рассказала, как за летние месяцы подготовить будущего первоклассника к школе. Она отметила, что ребенок в этом возрасте должен быть максимально самостоятельным, не бояться оставаться без родителей, уметь занимать себя любимыми делами и иметь представление о процессе обучения.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/09/20220610095124184/pic_0e66d240e4d01976ec7cb4f7de7884be.jpg" type="image/jpeg" length="119224"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/fr/</guid>
+  <author>Платон Щукин</author>
+  <title>Мосбиржа приостановила торги швейцарским франком</title>
+  <link>https://lenta.ru/news/2022/06/14/fr/</link>
+  <description>
+    <![CDATA[Московская биржа приостановила торги швейцарским франком с 14 июня. Приостановка операций обусловлена затруднениями в проведении расчетов в этой валюте. Ограничения затронут инструменты спот и своп по валютным парам «швейцарский франк — российский рубль» (CHFRUB) и «доллар США — швейцарский франк» (USDCHF).]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614103036479/pic_08d64eb16bce5a357755e5649a6c7ad9.jpg" type="image/jpeg" length="85990"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/kolonnnyyyyy/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Сбежавшего из колонии россиянина задержали за изнасилование двух девушек</title>
+  <link>https://lenta.ru/news/2022/06/14/kolonnnyyyyy/</link>
+  <description>
+    <![CDATA[В Орле задержали 22-летнего осужденного, ранее сбежавшего из КП-7. По данным следствия, в ночь на 12 июня подозреваемый пробрался в один из частных домов и, угрожая ножом, надругался над двумя девушками. Одна из потерпевших смогла вызвать полицию, стражи порядка выехали на место и позже доставили россиянина в отдел. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614101806073/pic_ebfb930fd9801cb327f805e5d1eae3a0.jpg" type="image/jpeg" length="36963"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/dostupno/</guid>
+  <author>Нина Ташевская</author>
+  <title>Названы регионы России с самым доступным жильем</title>
+  <link>https://lenta.ru/news/2022/06/14/dostupno/</link>
+  <description>
+    <![CDATA[Самым доступным в России жилье оказалось в Магаданской области, Ямало-Ненецком и Ненецком автономных округах. В этих регионах стандартная российская семья может накопить на квартиру быстрее всего, выяснили аналитики агентства РИА Новости в своем исследовании. Дольше всего копить на жилье придется жителям Крыма.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614093153454/pic_2db6affda86b76a9b2bf0bf741d95868.jpg" type="image/jpeg" length="105801"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/eyeill/</guid>
+  <author>Елена Апазиди</author>
+  <title>Зафиксировано новое генетическое заболевание глаз</title>
+  <link>https://lenta.ru/news/2022/06/14/eyeill/</link>
+  <description>
+    <![CDATA[Команда специалистов из лаборатории офтальмологической геномики Национального института глаз в США обнаружили новое генетическое заболевание глаз. Эта болезнь выражается в поражении макулы (центральная часть сетчатки), что приводит к потере четкости зрения из-за повреждения светочувствительных клеток. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/19/20220610192804603/pic_e2059bd7762e9b646010de10e5eb14e8.jpeg" type="image/jpeg" length="13346"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sukhodolsk/</guid>
+  <author>Алина Гончарова</author>
+  <title>Сдавшихся на «Азовстали» украинских военных этапировали в Суходольск</title>
+  <link>https://lenta.ru/news/2022/06/14/sukhodolsk/</link>
+  <description>
+    <![CDATA[88 членов украинского батальона «Азов», сдавшихся в плен 20 мая на металлургическом комбинате «Азовсталь» в Мариуполе, этапировали из СИЗО Луганска в Суходольскую исправительную колонию. Об этом сообщил источник ТАСС. Отмечается, что с военными намерены провести следственные действия.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614102110433/pic_ce9241121090ee2113150e40eef464ef.jpg" type="image/jpeg" length="125859"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/100yo/</guid>
+  <author>Никита Савин</author>
+  <title>100-летняя женщина рассказала о любимой еде и раскрыла секрет своего долголетия</title>
+  <link>https://lenta.ru/news/2022/06/14/100yo/</link>
+  <description>
+    <![CDATA[Отметившая 100-летний юбилей 11 июня жительница США рассказала, какую еду любит больше всего, и раскрыла секрет своего долголетия. Джин Магнес, проживающая в боро штата Пенсильвания Норт-Аполло, считает, что прожила так долго благодаря правильному психологическому настрою и одному виду орехов.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/13/20220610134623305/pic_e22e65d899489d00bfe8fa8393efac74.jpeg" type="image/jpeg" length="16642"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/ua_frg/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Посол Украины возмутился данными о торговле ФРГ и России</title>
+  <link>https://lenta.ru/news/2022/06/14/ua_frg/</link>
+  <description>
+    <![CDATA[Власти Германии не проявляют должной солидарности с Украиной, наращивая торговлю энергоносителями с Россией во время боевых действий. Об этом написал посол республики в ФРГ Андрей Мельник на своей странице в Twitter.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614102125619/pic_5454aba70f5e44faf85060d61488e62e.jpeg" type="image/jpeg" length="57618"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/vsuu/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Минобороны показало видео ударов авиации по объектам ВСУ</title>
+  <link>https://lenta.ru/news/2022/06/14/vsuu/</link>
+  <description>
+    <![CDATA[Минобороны России показало кадры работы штурмовиков Су-25 Воздушно-космических сил (ВКС) по объектам Вооруженных сил Украины (ВСУ). Кадрами оборонное ведомство поделилось с журналистами, они есть в распоряжении «Ленты.ру». Известно, что пуски ракет выполнялись с малых высот.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614095518197/pic_992ca81a295baf9b7c012b1260b2cd12.jpeg" type="image/jpeg" length="15635"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/thaicards/</guid>
+  <author>Мария Гейн</author>
+  <title>Россиянам назвали способы расплачиваться в Таиланде без долларов</title>
+  <link>https://lenta.ru/news/2022/06/14/thaicards/</link>
+  <description>
+    <![CDATA[Представители туриндустрии раскрыли способы расплачиваться на курортах Таиланда, не покупая при этом иностранную валюту перед поездкой. По словам экспертов Ассоциации туроператоров России (АТОР), сейчас большинство туристов прилетают в королевство с долларами или евро, которые затем меняют на тайские баты.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614094819801/pic_2eb59fce575055fbb563d6194062e62e.jpg" type="image/jpeg" length="19120"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/kabanov/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Сбежавшего участника расстрела милиционеров в Москве 25 лет назад арестуют</title>
+  <link>https://lenta.ru/news/2022/06/14/kabanov/</link>
+  <description>
+    <![CDATA[Пресненский суд Москвы рассмотрит ходатайство следователя об аресте Валерия Кабанова — единственного оставшегося на свободе участника ОПГ «Новогиреевские», которая в 1997 году расстреляла милицейский патруль в Москве. Следствие решило заново просить суд санкционировать арест находящегося 25 лет в международном розыске.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614094513579/pic_f35d123decbcc7bc5a8ac5366a24f7f7.jpg" type="image/jpeg" length="17338"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/fifavvestitimechisto/</guid>
+  <author>Алексей Гусев</author>
+  <title>В ФИФА задумались о введении в футболе чистого игрового времени</title>
+  <link>https://lenta.ru/news/2022/06/14/fifavvestitimechisto/</link>
+  <description>
+    <![CDATA[Президент Международной федерации футбола (ФИФА) Джанни Инфантино высказался о возможном введении в футболе чистого игрового времени. По его словам, организация и Международный совет футбольных ассоциаций (IFAB) задумались над этим вопросом. «Нужно найти какое-то решение», — заявил Инфантино. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:09:48 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614100536723/pic_8514f1a680f4448196f1f0f63ce68da0.jpeg" type="image/jpeg" length="53300"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/bel_sovmin/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Белоруссия подготовила заявку на членство в ШОС</title>
+  <link>https://lenta.ru/news/2022/06/14/bel_sovmin/</link>
+  <description>
+    <![CDATA[Белоруссия завершила подготовку заявки на членство в Шанхайской организации сотрудничества (ШОС), ее окончательно одобрил и утвердил Совет министров республики. Сейчас в организации состоят восемь стран: Казахстан, Киргизия, Китай, Россия, Таджикистан, Узбекистан, Индия и Пакистан. Белоруссия имеет статус наблюдателя.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614100551802/pic_5178d1112e85f100ad13731f0678bcd9.jpg" type="image/jpeg" length="137492"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/massage/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Россиянам рассказали о вреде самомассажа</title>
+  <link>https://lenta.ru/news/2022/06/14/massage/</link>
+  <description>
+    <![CDATA[Массажист с многолетним стажем Влад Коренев рассказал, кому лучше отказаться от самомассажа или проводить его только после консультаций с врачами. Эта полезная для большинства процедура может навредить гипертоникам, тем, кто страдает от остеопороза или артроза, и еще нескольким категориям людей, объяснил он.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:02:39 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/10/20220610100757151/pic_c6beaa896eb111da1f55933008b5ad50.jpeg" type="image/jpeg" length="86416"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/net_kartona/</guid>
+  <author>Платон Щукин</author>
+  <title>Российские компании попросили помощи с картоном</title>
+  <link>https://lenta.ru/news/2022/06/14/net_kartona/</link>
+  <description>
+    <![CDATA[Производители молочной продукции в России пожаловались на нехватку картона для упаковки и попросили помощи у властей для снижения остроты проблемы. «Союзмолоко» предложило распределять выпускаемый в стране картон для пищевой упаковки между производителями и получить от предприятий помесячные планы по выпуску упаковки.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614093329280/pic_61edc338e898d1cfee7f4ae9e01de1a4.jpg" type="image/jpeg" length="98827"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sister/</guid>
+  <author>Инга Разумовская</author>
+  <title>В Москве поощрят больше медсестер</title>
+  <link>https://lenta.ru/news/2022/06/14/sister/</link>
+  <description>
+    <![CDATA[В Москве расширили список специальностей, представители которых могут получить почетный статус «Московская медсестра» и «Московский медбрат». Теперь в перечне есть и специальность «Анестезиология и реаниматология». Об этом сообщила заместитель мэра Москвы по вопросам социального развития Анастасия Ракова.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:00:03 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/16/20220610164600036/pic_8bf1a4163ea763455d27b26e9435e755.jpeg" type="image/jpeg" length="16564"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/razru/</guid>
+  <author>Валерий Розенберг</author>
+  <title>Глава российского региона рассказал о разрушениях после обстрела ВСУ</title>
+  <link>https://lenta.ru/news/2022/06/14/razru/</link>
+  <description>
+    <![CDATA[После обстрела Вооруженными силами Украины (ВСУ) города Клинцы в Брянской области есть ряд разрушений. Об этом заявил глава региона Александр Богомаз в своем Telegram-канале. Об обстреле стало известно утром 14 июня. По сообщению очевидцев, после обстрела была обнаружена большая воронка.<br />]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 10:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614100233318/pic_bb19dab7afb0cf0426ab4540bb0b41bb.jpg" type="image/jpeg" length="42342"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/rec/</guid>
+  <author>Платон Щукин</author>
+  <title>Российские регионы рекордно заработали</title>
+  <link>https://lenta.ru/news/2022/06/14/rec/</link>
+  <description>
+    <![CDATA[Российские регионы в первые пять месяцев 2022 года рекордно заработали. Доходы бюджетов с января по май выросли на 29 процентов по сравнению с аналогичным периодом прошлого года — до 7,2 триллиона рублей. В то же время, собственные доходы регионов, без учета субсидий из федерального бюджета, выросли на 30 процентов. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:59:01 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/10/20220614100113520/pic_e7e4c91d52979026bbc33ba6f15f7fe0.jpg" type="image/jpeg" length="168563"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/kevina_obvinili/</guid>
+  <author>Анастасия Астахова</author>
+  <title>Кевину Спейси официально предъявили обвинение в сексуальных домогательствах</title>
+  <link>https://lenta.ru/news/2022/06/14/kevina_obvinili/</link>
+  <description>
+    <![CDATA[Кевину Спейси предъявили обвинение в домогательствах к мужчинам. Предполагаемые преступления произошли в период с 2005 по 2013 годы. Артисту, прибывшему в Великобританию, чтобы предстать перед Вестминстерским судом, также грозит дополнительное обвинение в принуждении человека к сексуальным действиям без его согласия.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614092519529/pic_c74ef578b23a24da35b651b580bcf901.jpg" type="image/jpeg" length="60435"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/raneny/</guid>
+  <author>Валерий Розенберг</author>
+  <title>Губернатор российского региона рассказал о пострадавших при обстреле ВСУ</title>
+  <link>https://lenta.ru/news/2022/06/14/raneny/</link>
+  <description>
+    <![CDATA[Губернатор Брянской области Александр Богомаз в своем Telegram-канале подтвердил факт обстрела города Клинцы Вооруженными силами Украины (ВСУ) и ранение нескольких местных жителей. Об обстреле стало известно утром 14 июня. По сообщению очевидцев, после обстрела была обнаружена большая воронка.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614095512678/pic_6c46944153ca2e5ec79ac76d92977fc0.jpg" type="image/jpeg" length="73092"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/svbddddddddd/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Россиянина осудили на 19 лет за двойное убийство и поджог дома</title>
+  <link>https://lenta.ru/news/2022/06/14/svbddddddddd/</link>
+  <description>
+    <![CDATA[В Амурской области 22-летнего жителя Свободного осудили на 19 лет за двойное убийство и поджог дома. По данным следствия, в ночь на 16 мая прошлого года фигурант вместе со знакомыми распивал спиртное. Позже он вместе с товарищем убил одного из приятелей, а после расправился и с подельником. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614092535978/pic_fed77a185382b16d28218ead8174d039.jpg" type="image/jpeg" length="147547"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/obstrell/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>Власти подтвердили обстрел Брянской области со стороны Украины</title>
+  <link>https://lenta.ru/news/2022/06/14/obstrell/</link>
+  <description>
+    <![CDATA[Село Займище городского округа Клинцы было обстреляно с стороны Украины. Об этом заявил губернатор Брянской области Александр Богомаз в своем Telegram-канале.По словам Богомаза, в результате украинского обстрела, предварительно, пострадали четыре человека. Власти подтвердили, что повреждены жилые постройки.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614095342549/pic_41ccca217ac45355e5d6f6d730c009d1.jpg" type="image/jpeg" length="30873"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/aniston/</guid>
+  <author>Мария Винар</author>
+  <title>Дженнифер Энистон раскрыла секрет своего питания для стройной фигуры</title>
+  <link>https://lenta.ru/news/2022/06/14/aniston/</link>
+  <description>
+    <![CDATA[Американская актриса Дженнифер Энистон раскрыла секрет своего питания для стройной фигуры. Знаменитость заявила, что поддерживать тело в тонусе ей помогают перекусы в виде протеиновых батончиков и снэков. При этом, по ее словам, она носит их в мини-холодильнике, который постоянно находится в ее машине.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614092307884/pic_9f5ef7fc5cacb6f845d4523db3cc21c9.webp" type="image/webp" length="9700"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/for/</guid>
+  <author>Платон Щукин</author>
+  <title>Финская энергетическая компания продаст все свои российские активы</title>
+  <link>https://lenta.ru/news/2022/06/14/for/</link>
+  <description>
+    <![CDATA[Финская Fortum до 21 июня собирает обязывающие предложения по продаже своих российских активов (владеет ими вместе с ее дочерней немецкой Uniper) — генкомпаний «Фортум» и «Юнипро». По данным источников издания, сделка должна быть закрыта до 1 июля. Uniper владеет 83,73 процента «Юнипро».]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614091843417/pic_3a1c8f16d8d1e1dd43c76b52712784af.jpg" type="image/jpeg" length="66541"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/halil/</guid>
+  <author>Маргарита Щигарева</author>
+  <title>Умер участник известной команды КВН</title>
+  <link>https://lenta.ru/news/2022/06/14/halil/</link>
+  <description>
+    <![CDATA[Стало известно о смерти участника команды КВН «Махачкалинские бродяги» и актера Халила Мусаева. О том, что он ушел из жизни, во вторник, 14 июня, в Telegram-канале сообщил дагестанский общественник Шамиль Хадулаев. Перед этим Мусаев был госпитализирован с инсультом. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614091724352/pic_e453a7386b7a4fa75f1ac3aed0171cba.jpg" type="image/jpeg" length="55170"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/dzannififa/</guid>
+  <author>Алексей Гусев</author>
+  <title>Норвежский лыжник рассказал о влиянии отсутствия россиян на уровень турниров</title>
+  <link>https://lenta.ru/news/2022/06/14/dzannififa/</link>
+  <description>
+    <![CDATA[Норвежский лыжник Эмиль Иверсен высказался об отстранении россиян от международных соревнований. По его словам, отсутствие спортсменов из России негативно влияет на уровень турниров по лыжным гонкам. «Если говорить только о спортивном аспекте, то это очень неприятно», — заявил Иверсен. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614093336462/pic_37e7fca028d3223c9123cc7a2c0da430.jpg" type="image/jpeg" length="55446"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/5gen/</guid>
+  <author>Даниил Иринин</author>
+  <title>В США сравнили истребители пятого поколения</title>
+  <link>https://lenta.ru/news/2022/06/14/5gen/</link>
+  <description>
+    <![CDATA[Российский истребитель Су-57 остается самым маневренным представителем пятого поколения, пишет Military Watch. Издание сравнило истребители Су-57, F-35 и J-20. К преимуществам российского самолета отнесли ракеты класса «воздух-воздух» большой дальности и разнесенные по поверхности самолета датчики. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/17/20220610175457203/pic_2c07a67da887fffdc520c8368459aec8.jpeg" type="image/jpeg" length="73029"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/obstrel_dnr/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Названо число погибших гражданских под украинскими обстрелами в ДНР</title>
+  <link>https://lenta.ru/news/2022/06/14/obstrel_dnr/</link>
+  <description>
+    <![CDATA[За сутки под обстрелами Вооруженных сил Украины (ВСУ) погибли пять и пострадали 35 гражданских лиц на территории ДНР. За этот срок только в Донецке пострадали около 70 домовладений и несколько объектов социальной инфраструктуры, в том числе роддом. Речь идет о временном промежутке с 8:00 13 июня по 8:00 14 июня. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614085604699/pic_4d414fe8333e1eb2b4df5c411a937329.jpg" type="image/jpeg" length="127336"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/kazakhstan_meeting/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Папа Римский понадеялся на встречу с главой РПЦ в Казахстане</title>
+  <link>https://lenta.ru/news/2022/06/14/kazakhstan_meeting/</link>
+  <description>
+    <![CDATA[Папа Римский Франциск рассказал, что рассчитывал на встречу с патриархом Московским и всея Руси Кириллом в Иерусалиме 14 июня, однако из-за боев на Украине ее решили перенести. Теперь понтифик надеется на встречу в Казахстане в сентябре 2022 года. По словам Франциска, июльскую встречу перенесли «по взаимному согласию».]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614093711392/pic_bcbe3ddec0243b22e31c5e7eef2b2254.jpg" type="image/jpeg" length="36044"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/zabaykal/</guid>
+  <author>Любовь Ширижик</author>
+  <title>Бывший замглавы дорожной службы Забайкалья сел на 13 лет за миллионные взятки</title>
+  <link>https://lenta.ru/news/2022/06/14/zabaykal/</link>
+  <description>
+    <![CDATA[Центральный районный суд Читы вынес приговор бывшему заместителю начальника управления федеральных автомобильных дорог Забайкалья по делу о коррупции. Он признан виновным в получении взяток и отмывании доходов, полученных преступным путем. Его осудили на 13 лет со штрафом в 120 миллионов рублей.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614091942534/pic_3e627b0fef6ef9d7ca5d132519d7f540.jpg" type="image/jpeg" length="19605"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/golod/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Врачи назвали неочевидные причины постоянного чувства голода</title>
+  <link>https://lenta.ru/news/2022/06/14/golod/</link>
+  <description>
+    <![CDATA[Врачи Николай Матвеев и Елена Богуш рассказали, что может вызывать хроническое и неприятное чувство голода. По их словам, человек ощущает потребность постоянно есть по нескольким причинам: из-за проблем в работе щитовидной железы, из-за дефицитов витаминов и сна, а также из-за стресса и неправильного питания.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/10/20220610100513450/pic_f7328a4ea82b19b7782eb413ece86736.jpg" type="image/jpeg" length="57632"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/daniilpervaya/</guid>
+  <author>Алексей Гусев</author>
+  <title>Медведев отреагировал на возвращение статуса первой ракетки мира</title>
+  <link>https://lenta.ru/news/2022/06/14/daniilpervaya/</link>
+  <description>
+    <![CDATA[Россиянин Даниил Медввдев отреагировал на выход на первое место в рейтинге Ассоциации теннисистов-профессионалов (ATP). Россиянин заявил, что считает возвращение этого статуса заслуженным. «Я счастлив снова оказаться на вершине», — заявил он. 26-летний Медведев вновь возглавил рейтинг ATP 13 июня. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614091221331/pic_9e6cf52a591984fda04e23724a55dd97.jpg" type="image/jpeg" length="129382"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/video_bryansk/</guid>
+  <author>Валерий Розенберг</author>
+  <title>Появилось видео последствий взрыва в граничащем с Украиной российском регионе</title>
+  <link>https://lenta.ru/news/2022/06/14/video_bryansk/</link>
+  <description>
+    <![CDATA[Последствия взрыва в городе Клинцы Брянской области попали на видео. Кадры публикует Telegram-канал «RT на русском». На видео один из очевидцев демонстрирует большую воронку, оставшуюся на месте взрыва. Также на кадрах видно, что на месте уже работают сотрудники экстренных служб и военные. Место взрыва оцеплено.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614092339786/pic_7e20827002f226b0de31a2e20f9bfba4.jpeg" type="image/jpeg" length="19418"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/steklo/</guid>
+  <author>Платон Щукин</author>
+  <title>В России серьезно снизилось производство стекла</title>
+  <link>https://lenta.ru/news/2022/06/14/steklo/</link>
+  <description>
+    <![CDATA[На фабриках по производству листового стекла в России в мае загрузка сократилась на 30 процентов по сравнению с тем же периодом прошлого года. Поводом для обвала стал стали санкции западных стран, введенные в ответ на действия российских войск на Украине, сбои в логистике и снижение внутреннего спроса.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614085429678/pic_4bcb8a1aff3fa1ddb97ff410521d9590.jpg" type="image/jpeg" length="158045"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/poshla_zhara/</guid>
+  <author>Дарья Рыбак</author>
+  <title>Россиянка побывала в ОАЭ в июне и описала отдых словами «чуть не спеклись»</title>
+  <link>https://lenta.ru/news/2022/06/14/poshla_zhara/</link>
+  <description>
+    <![CDATA[Российская туристка, побывавшая на отдыхе в ОАЭ в июне, пожаловалась на изнуряющую жару на курорте. По словам путешественницы, в это время года в ОАЭ «уже жарковато» — например, девушка призналась, что «чуть не спеклась», пока ждала других туристов в аэропорту перед трансфером в отель.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/16/20220610161150724/pic_76eb87fe947b516d5a49d148fb78ae9d.jpg" type="image/jpeg" length="132406"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/zel_frg/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Зеленский обрушился с критикой на Шольца</title>
+  <link>https://lenta.ru/news/2022/06/14/zel_frg/</link>
+  <description>
+    <![CDATA[Федеральный канцлер ФРГ Олаф Шольц должен прекратить попытки быть нейтральным и балансировать между Москвой и Киевом. Об этом заявил президент Украины Владимир Зеленский. Он обрушился с критикой на немецкого коллегу за стремление «не навредить» своей стране.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614085912879/pic_28356f3a07070d68c5fe5e72692de076.jpg" type="image/jpeg" length="18759"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/f35/</guid>
+  <author>Иван Потапов</author>
+  <title>Израильские F-35 смогут достичь Ирана без дозаправки</title>
+  <link>https://lenta.ru/news/2022/06/14/f35/</link>
+  <description>
+    <![CDATA[Израиль увеличил дальность полета своих истребителей пятого поколения F-35I Adir, в результате чего они смогут достичь Ирана без дозаправки, пишет The Drive, ссылаясь на публикацию израильской прессы. Каким образом удалось столь радикально повысить дальность полета самолета, не указывается.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/11/11/20220611110047379/pic_c5d426d06dc3eaeaabe0cb2bb3286705.jpg" type="image/jpeg" length="74309"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/vzrivvv/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>В граничащем с Украиной российском регионе произошел взрыв</title>
+  <link>https://lenta.ru/news/2022/06/14/vzrivvv/</link>
+  <description>
+    <![CDATA[В городе Клинцы Брянской области, который находится в 45 километрах от границы с Украиной, произошел взрыв. Об этом пишет «Коммерсантъ» со ссылкой на местные Telegram-каналы. По словам очевидцев, после взрыва почти во всех квартирах города пропали свет и вода. Предположительно, пострадала одна женщина. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614090347091/pic_7a1751e1511a6f332749dbdec738d30c.jpg" type="image/jpeg" length="91089"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/premier_portugalii/</guid>
+  <author>Елизавета Наумова</author>
+  <title>Португалия призвала прекратить споры о членстве Украины в ЕС</title>
+  <link>https://lenta.ru/news/2022/06/14/premier_portugalii/</link>
+  <description>
+    <![CDATA[Странам Европейского союза следует отказаться от дебатов по поводу вступления Украины в объединение, сосредоточившись на немедленном оказании помощи. Политик подчеркнул, что присвоение статуса кандидата, о котором спорят представители стран ЕС — это только начало процесса вступления, который займет много лет. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614090051555/pic_bf3e210c9386097af899781194f1f043.jpg" type="image/jpeg" length="43233"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/hotel/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>Горничные рассказали о самых отвратительных постояльцах</title>
+  <link>https://lenta.ru/news/2022/06/14/hotel/</link>
+  <description>
+    <![CDATA[Горничные, консьержи и администраторы рассказали о самых ужасных постояльцах отелей и поступках, которые те совершили. Работники находили презервативы в ледогенераторах, грязное белье в постели, разбросанный мусор в номерах и даже видели полностью разгромленные комнаты.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 09:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/12/20220610123104578/pic_408903ba263e496516ca25f0ca5cdc04.jpg" type="image/jpeg" length="84078"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/avto/</guid>
+  <author>Марина Совина</author>
+  <title>В России призвали наказать крупные грузовые автоконцерны</title>
+  <link>https://lenta.ru/news/2022/06/14/avto/</link>
+  <description>
+    <![CDATA[Глава «Общественной потребительской инициативы» (ОПИ) Олег Павлов обратился в Генпрокуратуру и МВД с просьбой провести проверку представительств грузовых автоконцернов Scania, Volvo, MAN, Mercedes и Iveco и привлечь их к уголовной ответственности при необходимости, пишут «Известия».]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614081624923/pic_1b0e7059318cd94619a92368afbcf7b1.jpg" type="image/jpeg" length="16252"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/chelbsucide/</guid>
+  <author>Елизавета Новикова</author>
+  <title>Россиянка выбросила двоих сыновей с шестого этажа и совершила суицид</title>
+  <link>https://lenta.ru/news/2022/06/14/chelbsucide/</link>
+  <description>
+    <![CDATA[В Челябинске 37-летняя заведующая детским садом выбросила из окна своей квартиры двоих сыновей, а после совершила суицид. Трагедия произошла в ночь на 14 июня на улице Богдана Хмельницкого. Женщина и 2-летний малыш скончались на месте, а 11-летнего четвероклассника госпитализировали. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614085010499/pic_fd39e5eb9ff1e62bf72a78ea492d7e07.jpg" type="image/jpeg" length="25090"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/vrednomebel/</guid>
+  <author>Нина Ташевская</author>
+  <title>Россиянам рассказали о портящих мебель условиях в квартире</title>
+  <link>https://lenta.ru/news/2022/06/14/vrednomebel/</link>
+  <description>
+    <![CDATA[Чаще всего к порче мебели в российских квартирах приводят высокие сухость и влажность. Такие условия глава Ассоциации предприятий мебельной и деревообрабатывающей отрасли России (АМДПР) Александр Шестаков назвал наиболее вредными для предметов интерьера. Их негативный эффект усиливается при перепаде температур.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614083344347/pic_6453e4fba07458b9ac52a73798fdc417.jpg" type="image/jpeg" length="23124"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sexual-wellness/</guid>
+  <author>Наталья Обрядина</author>
+  <title>Названы способы улучшить качество сексуальной жизни</title>
+  <link>https://lenta.ru/news/2022/06/14/sexual-wellness/</link>
+  <description>
+    <![CDATA[Эксперт по отношениям, сексолог Аннабель Найт рассказала, как можно улучшить качество интимной жизни и стать сексуально благополучным человеком. По ее словам, на способность получать удовольствие и достигать оргазма влияет то, насколько человек честен перед самим собой, и как он общается со своим партнером.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:46:55 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/14/20220610145248559/pic_16557528ba0a6d2e91f2a4b5b9f8a9ed.jpeg" type="image/jpeg" length="14785"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/russia/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>В Кремле оценили ситуацию в России фразой «нет худа без добра»</title>
+  <link>https://lenta.ru/news/2022/06/14/russia/</link>
+  <description>
+    <![CDATA[Россия сейчас находится в нелегкой ситуации — это подталкивает ее к поиску новых путей взаимодействия с дружественными государствами. Об этом, оценивая обстановку в стране, заявил официальный представитель Кремля Дмитрий Песков в интервью ТАСС. Он указал на ослабление роли доллара и евро, а также резервных валют.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614082605515/pic_f5a6fab411fd69463084a16545d89ff5.jpg" type="image/jpeg" length="60309"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/doneccccck/</guid>
+  <author>Елизавета Новикова</author>
+  <title>СКР возбудил дело после обстрела рынка в центре Донецка со стороны ВСУ</title>
+  <link>https://lenta.ru/news/2022/06/14/doneccccck/</link>
+  <description>
+    <![CDATA[СКР возбудил дело после обстрела рынка в Донецке, из-за которого погибли три человека. По данным следствия, 13 июня этого года украинские военные произвели прицельный артиллерийский обстрел из тяжелых видов вооружения Буденовского района города. В результате три человека, в том числе ребенок, погибли. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/08/20220614083001903/pic_a18b93fce1a79314f644de8c639c9183.jpg" type="image/jpeg" length="112969"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/second/</guid>
+  <author>Марина Совина</author>
+  <title>Белый дом раскрыл планы Байдена на выборы в 2024 году</title>
+  <link>https://lenta.ru/news/2022/06/14/second/</link>
+  <description>
+    <![CDATA[Официальный представитель Белого дома Карин Жан-Пьер прокомментировала планы президента США Джо Байдена на участие в выборах на пост главы государства. «Что я могу сказать, это то, что президент неоднократно говорил, что планирует баллотироваться в 2024 году...», — подчеркнула пресс-секретарь Белого дома.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614075619521/pic_9807e726dcf6cf67a82e1a1fdb7653d4.jpg" type="image/jpeg" length="37978"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/cold_war2/</guid>
+  <author>Марина Совина</author>
+  <title>Костин рассказал о конце глобализации и предрек «холодную войну 2.0»</title>
+  <link>https://lenta.ru/news/2022/06/14/cold_war2/</link>
+  <description>
+    <![CDATA[Председатель правления банка ВТБ Андрей Костин заявил, что в настоящее время мир может наблюдать конец эпохи глобализации и готовиться к «холодной войне 2.0», в которой мировые державы в очередной раз жестко поделятся на «своих» и «чужих». Он уверен, что антироссийские санкции сохранятся на долгое время.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:15:57 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614071925180/pic_eee3081ca1cef4d78840666c2524194b.jpg" type="image/jpeg" length="84730"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/kosmos/</guid>
+  <author>Марина Совина</author>
+  <title>«Роскосмос» возобновил консультации с Европой по совместному проекту ExoMars</title>
+  <link>https://lenta.ru/news/2022/06/14/kosmos/</link>
+  <description>
+    <![CDATA[«Роскосмос» возобновил консультации с Европейским космическим агентством (ЕКА) по совместному проекту ExoMars, сообщили в пресс-службе госкорпорации. Ранее о возобновлении диалога заявил глава «Роскосмоса» Дмитрий Рогозин, он оценил шанс положительного решения по запуску в семь-восемь процентов.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614075447416/pic_ee4cd3125e72b041158655a28cae465f.jpg" type="image/jpeg" length="33452"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/putin/</guid>
+  <author>Анастасия Шейкина</author>
+  <title>В Кремле ответили на вопрос об отпуске Путина</title>
+  <link>https://lenta.ru/news/2022/06/14/putin/</link>
+  <description>
+    <![CDATA[Президент России Владимир Путин пока не собирается брать отпуск. Об этом сообщил официальный представитель Кремля Дмитрий Песков в интервью ТАСС. «Нет, пока об этом речь не идет», — заявил пресс-секретарь главы государства, отвечая на вопрос о его отпуске. Прошлым летом у Путина также не было полноценного отпуска. <br />]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614091041988/pic_8960724d01568d69fb4c047dcb21f1df.jpg" type="image/jpeg" length="112267"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/colleague/</guid>
+  <author>Олег Давыдов</author>
+  <title>Парень поделился книгой с коллегой и оказался на грани увольнения</title>
+  <link>https://lenta.ru/news/2022/06/14/colleague/</link>
+  <description>
+    <![CDATA[Пользователь Reddit поделился историей о том, как одолжил коллеге книгу, в которой затрагивается тема секса, и оказался на грани увольнения. Девушка обвинила его в домогательствах после прочтения романа. По словам рассказчика, парень решил одолжить коллеге одну из своих книг — «Норвежский лес» писателя Харуки Мураками.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:00:39 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/13/20220613134000060/pic_5240c196f64feb6ba449280c2d6d423e.jpeg" type="image/jpeg" length="132379"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/lookingstylish/</guid>
+  <author>Полина Гераскина</author>
+  <title>Блогерша показала простой способ визуально уменьшить талию</title>
+  <link>https://lenta.ru/news/2022/06/14/lookingstylish/</link>
+  <description>
+    <![CDATA[Плюс-сайз-блогерша по имени Максин (фамилия неизвестна) показала простой способ, который поможет визуально уменьшить талию и подчеркнуть грудь. На примере свободного летнего сарафана девушка продемонстрировала, как в считанные секунды можно создать силуэт «песочные часы» с помощью пояса.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 08:00:27 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/14/20220610144731778/pic_153cc5c146d8f5399fbe73afb5224f83.jpeg" type="image/jpeg" length="96652"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/azovstal/</guid>
+  <author>Марина Совина</author>
+  <title>На территории «Азовстали» нашли бойцов «Азова»</title>
+  <link>https://lenta.ru/news/2022/06/14/azovstal/</link>
+  <description>
+    <![CDATA[На территории завода «Азовсталь» в Мариуполе регулярно находят по одному-два бойца батальона «Азов», которые не сдались в плен 20 мая. После допроса и предъявления националистам обвинений они будут содержаться в СИЗО «как и остальные преступники, сдавшиеся до этого в плен». ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614073925264/pic_11f850f22b07b446bc25523684fbd15c.jpg" type="image/jpeg" length="105899"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/ready/</guid>
+  <author>Марина Совина</author>
+  <title>Бизнес заявил о готовности провести встречу с Путиным на ПМЭФ</title>
+  <link>https://lenta.ru/news/2022/06/14/ready/</link>
+  <description>
+    <![CDATA[Глава Российского союза промышленников и предпринимателей (РСПП) Александр Шохин заявил о готовности бизнеса встретиться с президентом страны Владимиром Путиным на полях Петербургского международного экономического форума (ПМЭФ). «Могу только сказать, что мы готовы к этой встрече», — подчеркнул глава РСПП.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614073843380/pic_76b9a5ccb93855ae4b0029e1861b5503.jpg" type="image/jpeg" length="77151"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sankcii_pushkov/</guid>
+  <author>Марина Совина</author>
+  <title>В Совфеде высказались о страхе США по поводу антироссийских санкций</title>
+  <link>https://lenta.ru/news/2022/06/14/sankcii_pushkov/</link>
+  <description>
+    <![CDATA[Член Совета Федерации Алексей Пушков высказался о страхе Вашингтона по поводу антироссийских санкций. Он заявил, что США не выдерживают своих рестрикций, а попытка изолировать Россию дорого обходится Западу. По словам сенатора, Соединенные Штаты уже поняли ошибочность антироссийских ограничений, но боятся это признать.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614071910689/pic_a803ab44fb09249fbf71de4531383fee.jpg" type="image/jpeg" length="98243"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/cyberwar/</guid>
+  <author>Марина Совина</author>
+  <title>Названо отличие кибервойны против России</title>
+  <link>https://lenta.ru/news/2022/06/14/cyberwar/</link>
+  <description>
+    <![CDATA[Главный эксперт «Лаборатории Касперского» Сергей Голованов рассказал о кибервойне, которая идет против России. Единственное, что после 24 февраля произошло новое — это то, что одна из сторон официально объявила, что создается IT-армия, пригласила в нее всех желающих и регулярно указывает цели для атак», — отметил он.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614074654950/pic_ce469ff0e2660415295ab677c254073b.jpg" type="image/jpeg" length="16950"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/relations/</guid>
+  <author>Марина Совина</author>
+  <title>Песков оценил ситуацию в мировой торговле</title>
+  <link>https://lenta.ru/news/2022/06/14/relations/</link>
+  <description>
+    <![CDATA[Пресс-секретарь президента России Дмитрий Песков заявил, что страна продолжит использовать прежние форматы интеграции с дружественными государствами. «Все это будет восстановлено на новой основе в условиях той совершенно беспрецедентной войны, которая была против нас объявлена и начата», — подчеркнул он.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:07:18 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/07/20220614071638050/pic_80cf882c74e43bd243c9c17fd9490555.jpg" type="image/jpeg" length="35658"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/food/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Диетологи рассказали о пользе шаурмы и одном вредном ингредиенте в ней</title>
+  <link>https://lenta.ru/news/2022/06/14/food/</link>
+  <description>
+    <![CDATA[Специалисты рассказали россиянам о полезных свойствах шаурмы, назвав ее сбалансированным блюдом. Однако, предупреждают они, в ней содержится один вредный ингредиент — это соус из майонеза и кетчупа. Чтобы получить удовольствие и не навредить фигуре и здоровью, диетологи советуют готовить шаурму дома самим.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:01:41 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/09/20220610095208130/pic_8fe8813e2fb14951f0c50dc1c8ebcc3d.jpg" type="image/jpeg" length="90141"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/teacher/</guid>
+  <author>Никита Савин</author>
+  <title>Учительница совратила ребенка и оказалась в тюрьме</title>
+  <link>https://lenta.ru/news/2022/06/14/teacher/</link>
+  <description>
+    <![CDATA[В США преподавательница средней школы общины Табб, штат Вирджиния, совратила ученика и оказалась в тюрьме. По данным следствия, жертвой 32-летней Кристен Макаллистер стал учащийся мужского пола. До завершения следствия ей запрещено появляться в школе и других учебных заведениях округа. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:01:29 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/13/20220610135748741/pic_0bf844d1fe398d1f570242501e98e621.jpg" type="image/jpeg" length="54148"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/pluschenko/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Плющенко высказался о повышении возрастного ценза в фигурном катании</title>
+  <link>https://lenta.ru/news/2022/06/13/pluschenko/</link>
+  <description>
+    <![CDATA[Двукратный олимпийский чемпион Евгений Плющенко поддержал повышение возрастного ценза в фигурном катании. «Очень здорово, что Международный союз конькобежцев (ISU) поднял возрастной ценз, потому что у нас в 15 лет девочки заканчивают, а где борьба, превозмогания?» — поделился он.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 07:01:11 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/18/20220613180408727/pic_dcb0faf26467aac9ae6d2c242dfd4ff7.jpg" type="image/jpeg" length="57860"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/durov_apple/</guid>
+  <author>Марина Совина</author>
+  <title>Дуров упрекнул Apple в намеренном ухудшении качества веб-версий приложений</title>
+  <link>https://lenta.ru/news/2022/06/14/durov_apple/</link>
+  <description>
+    <![CDATA[Российский миллионер и основатель мессенджера Telegram Павел Дуров упрекнул Apple в намеренном ухудшении качества веб-версий приложений для роста их загрузок в App Store, за которые компания получает комиссию. Он отметил, что компания сознательно ограничивает веб-разработчиков, они жалуются на технические проблемы.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:56:04 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/06/20220614063101006/pic_2714356886255cb7932bd0bc24d61f0c.jpg" type="image/jpeg" length="55887"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/perestrelka/</guid>
+  <author>Марина Совина</author>
+  <title>На границе Киргизии и Таджикистана произошла перестрелка между военными</title>
+  <link>https://lenta.ru/news/2022/06/14/perestrelka/</link>
+  <description>
+    <![CDATA[На границе Киргизии и Таджикистана произошла перестрелка между военными. «14 июня 2022 года на киргизско-таджикском участке государственной границы произошла перестрелка между пограничными нарядами Киргизской Республики и Республики Таджикистан», — говорится в сообщении. Данных о погибших и пострадавших не поступало.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:39:24 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/06/20220614063033555/pic_7ee3a8111b760fdc149bc6074842cb75.jpg" type="image/jpeg" length="113102"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/cards/</guid>
+  <author>Марина Совина</author>
+  <title>Российские банковские карты перестали интересовать хакеров</title>
+  <link>https://lenta.ru/news/2022/06/14/cards/</link>
+  <description>
+    <![CDATA[Эксперт «Лаборатории Касперского» Сергей Голованов заявил, что карты банков РФ перестали интересовать хакеров. «С апреля 2022 года русские карты, видимо, хакерам не нужны — за рубежом они на них ничего купить не могут. Получается, что для карточного мошенничества остаются только возможности в России», — заявил он.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614055052791/pic_d6ee15f86a160029935da28ef415842e.jpg" type="image/jpeg" length="11438"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/nezavisimost/</guid>
+  <author>Марина Совина</author>
+  <title>Российский депутат пообещал отозвать признание независимости трех стран</title>
+  <link>https://lenta.ru/news/2022/06/14/nezavisimost/</link>
+  <description>
+    <![CDATA[Депутат Госдумы Евгений Федоров пообещал, что Россия в будущем может распространить отзыв признания независимости на Латвию, Эстонию и Украину. Он отметил, что выбор Литвы обусловлен тем, что в ситуации с ней лучше всего видны нарушения Закона СССР «О порядке решения вопросов, связанных с выходом союзной республики».]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/06/20220614063629427/pic_51312155a9ea694738def69a627e2944.jpg" type="image/jpeg" length="75470"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/worms/</guid>
+  <author>Елена Апазиди</author>
+  <title>Обнаружены перерабатывающие пластик черви</title>
+  <link>https://lenta.ru/news/2022/06/14/worms/</link>
+  <description>
+    <![CDATA[Исследовательская группа из Австралийского университета Квинсленда выявили червей, которые способны перерабатывать пластик путем его поедания. Согласно полученным данным, личинки жуков Zophobas morio имеют в кишечнике специальные ферменты, которые разлагают полистирол и дают животным питательные вещества.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:30:35 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/18/20220610180909366/pic_b0057a24adb9a2091f91056b5dec137e.jpeg" type="image/jpeg" length="37875"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/efiopia/</guid>
+  <author>Марина Совина</author>
+  <title>Эфиопия назвала условия подключения к создаваемой Россией платежной системе</title>
+  <link>https://lenta.ru/news/2022/06/14/efiopia/</link>
+  <description>
+    <![CDATA[Посол Эфиопии в России Алемайеху Тегену Аргау заявил, что страна могла бы подключиться к создаваемой Москвой платежной системе, при условии участия Турции или КНР. Он отметил, что такой платежный канал подойдет для Африки, валюта может быть любой, но необходимо создать механизм для ее конвертации в других странах.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:26:20 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/06/20220614061015372/pic_8b2e92afe8f69cdd193b49588085ea7b.jpg" type="image/jpeg" length="12270"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/brain_prod/</guid>
+  <author>Марина Совина</author>
+  <title>Названы полезные для работы мозга продукты</title>
+  <link>https://lenta.ru/news/2022/06/14/brain_prod/</link>
+  <description>
+    <![CDATA[Кандидат медицинских наук, член национальной ассоциации диетологов и нутрициологов Дарья Русакова перечислила полезные для работы мозга продукты. Также специалист рекомендует ограничить употребления чая и кофе до трех-четырех чашек в день и следить за поддержанием водного баланса.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:24:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/06/20220614062419105/pic_33a1d14d543c755e77ee01609fca9461.jpg" type="image/jpeg" length="22423"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/but/</guid>
+  <author>Марина Совина</author>
+  <title>Адвокат Бута понадеялся обменять россиянина на американцев</title>
+  <link>https://lenta.ru/news/2022/06/14/but/</link>
+  <description>
+    <![CDATA[Стив Зиссу, американский адвокат российского бизнесмена Виктора Бута, который отбывает 25-летний тюремный срок в США, понадеялся, что его подзащитного смогут обменять на одного или нескольких осужденных в России американцев состоится. «Я верю, что [в США] возобладает объективная точка зрения», — сказал он.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:23:22 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/06/20220614062319715/pic_3ae9a0b6dcdcdb2c1b9e0a83c79e04fa.jpg" type="image/jpeg" length="93681"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/hospis/</guid>
+  <author>Олег Давыдов</author>
+  <title>Медсестра хосписа раскрыла состояние людей перед смертью</title>
+  <link>https://lenta.ru/news/2022/06/14/hospis/</link>
+  <description>
+    <![CDATA[Медсестра хосписа Пенни Смит (Penny Smith) в ролике, опубликованном в TikTok, раскрыла состояние людей перед смертью. «Когда человек умирает, обычно им видится, что перед ними стоят покойные люди, которых они любили, а иногда даже и их умершие питомцы», — поделилась женщина.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:00:49 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613193649833/pic_f483c7c47981549f5eb6dc59e28781c2.jpg" type="image/jpeg" length="70716"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/dacha/</guid>
+  <author>Вера Владзиевская</author>
+  <title>Раскрыты способы реанимации дачных растений после заморозков</title>
+  <link>https://lenta.ru/news/2022/06/14/dacha/</link>
+  <description>
+    <![CDATA[Ландшафтный дизайнер Татьяна Мамеева рассказала, как защитить дачные растения во время заморозков, а также заранее придать им сил пережить резкие перепады температуры. Главным секретом планирования сада эксперт назвала выбор растений, акклиматизированных для конкретной местности.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 06:00:33 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/10/20220610100305288/pic_ec5a1a91b66e31db7469e4befd580610.jpg" type="image/jpeg" length="72079"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/peskov_suverennost/</guid>
+  <author>Марина Совина</author>
+  <title>В Кремле напомнили слова Путина о суверенности России</title>
+  <link>https://lenta.ru/news/2022/06/14/peskov_suverennost/</link>
+  <description>
+    <![CDATA[Официальный представитель Кремля Дмитрий Песков в преддверии Петербургского международного экономического форума (ПМЭФ) напомнил слова президента России Владимира Путина о том, что суверенность России, технологическая, производственная, промышленная, торговая и так далее, не означает изоляцию страны.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614055246200/pic_5d2e1d919a0fca66731a98067be73f85.jpg" type="image/jpeg" length="30641"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/wow/</guid>
+  <author>Марина Совина</author>
+  <title>В Чехии удивились планам поддержать «польско-украинскую Речь Посполитую»</title>
+  <link>https://lenta.ru/news/2022/06/14/wow/</link>
+  <description>
+    <![CDATA[Исполнительный директор Института Вацлава Клауса Йиржи Вейгл удивился, что Чехия поддерживает вероятные «планы» Варшавы создать «новую польско-украинскую Речь Посполитую». Эксперт считает, что Польша хочет воспользоваться возможностью для восстановления своих исторических позиций на Украине. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:51:30 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614055007937/pic_ab90ed9e509171f52cc5132746da4c41.jpg" type="image/jpeg" length="24613"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/peskov_besperspektivno/</guid>
+  <author>Марина Совина</author>
+  <title>В Кремле сочли бесперспективной попытку вытолкнуть Россию из международной жизни</title>
+  <link>https://lenta.ru/news/2022/06/14/peskov_besperspektivno/</link>
+  <description>
+    <![CDATA[Официальный представитель Кремля Дмитрий Песков счел бесперспективной и невозможной попытку с помощью санкций вытолкнуть Россию из международной жизни. Таким образом он прокомментировал, является ли проведение Петербургского международного экономического форума в нынешних условиях ответом на западные рестрикции.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614054043394/pic_6bef05f10942e0fef785ce3780870de0.jpg" type="image/jpeg" length="25703"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/banks/</guid>
+  <author>Марина Совина</author>
+  <title>Два американских банка приостановили операции по госдолгу России</title>
+  <link>https://lenta.ru/news/2022/06/14/banks/</link>
+  <description>
+    <![CDATA[Одни из крупнейших в мире банков — американские JPMorgan Chase и Goldman Sachs —приостановили операции по обслуживанию госдолга России. К такому решению привели указания от Минфина США. При этом, по словам источников, в июне эти организации все еще проводили операции по российским займам.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:29:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614052847415/pic_adf448a7df92802fd28e87594de405ae.jpg" type="image/jpeg" length="36978"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/vef/</guid>
+  <author>Марина Совина</author>
+  <title>Песков оценил значение Восточного экономического форума для России</title>
+  <link>https://lenta.ru/news/2022/06/14/vef/</link>
+  <description>
+    <![CDATA[Пресс-секретарь президента России Дмитрий Песков оценил значение Восточного экономического форума, который проходит в конце сентября, для страны. Он заявил, что его роль возрастет из-за переориентации экономических связей на Восток. Песков также ответил на вопрос, посетит ли ВЭФ президент Владимир Путин.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:25:43 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614052111682/pic_c8fb335a92ccd18c7fbd11a18b2c3ee3.jpg" type="image/jpeg" length="62639"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/candidate/</guid>
+  <author>Марина Совина</author>
+  <title>Еврокомиссия порекомендует предоставить Украине статус кандидата в ЕС</title>
+  <link>https://lenta.ru/news/2022/06/14/candidate/</link>
+  <description>
+    <![CDATA[Газета Politico со ссылкой на источники сообщает, что Еврокомиссия планирует порекомендовать предоставить Украине статус кандидата на вступление в Европейский союз. Отмечается, что своими действиями ЕК хочет послать некий «сигнал» российскому президенту Владимиру Путину.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614052337764/pic_744041f333c21bdf597d30f78b4f54fa.jpg" type="image/jpeg" length="20911"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/pushkov/</guid>
+  <author>Марина Совина</author>
+  <title>Сенатор раскрыл страх Запада об антироссийских санкциях</title>
+  <link>https://lenta.ru/news/2022/06/14/pushkov/</link>
+  <description>
+    <![CDATA[Сенатор Алексей Пушков заявил, что Запад боится признать, что стремление изолировать Россию с помощью введенных против нее ограничений грозит его собственной экономике. «Попытка изолировать себя от России дорого обходится Западу. Там это уже поняли, но признать боятся», — подчеркнул политик.<br />]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614050823302/pic_19740370234598079cbcb9311d5d4535.jpg" type="image/jpeg" length="72322"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/dollar/</guid>
+  <author>Марина Совина</author>
+  <title>Индекс доллара впервые за 20 лет поднялся выше 105 пунктов</title>
+  <link>https://lenta.ru/news/2022/06/14/dollar/</link>
+  <description>
+    <![CDATA[Индекс доллара, то есть курс в корзине из шести стран, являющихся торговыми партнерами США, впервые за 20 лет, с декабря 2002 года поднялся выше 105 пунктов, свидетельствуют данные торгов. Он укрепляется на фоне волны распродаж рисковых активов на мировых рынках. Инвесторы опасаются рецессии.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:09:09 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/05/20220614050758874/pic_f74381ddc297454e1eaa4cda1ff960f7.jpg" type="image/jpeg" length="14375"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/ketodieta/</guid>
+  <author>Елена Матвиенко</author>
+  <title>Диетолог предупредила россиян об опасных последствиях модной диеты</title>
+  <link>https://lenta.ru/news/2022/06/14/ketodieta/</link>
+  <description>
+    <![CDATA[Врач-диетолог Ольга Лушникова рассказала, как популярная кетогенная диета может привести к опасным последствиям для здоровья человека. По словам эксперта, при таком питании в организм перестает поступать множество полезных микроэлементов, что провоцирует появление камней в почках, остеопороза и панкреатита.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:00:29 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/09/11/20220609110651146/pic_bbd980f93d2a091cf602a908a0ec6408.jpg" type="image/jpeg" length="54667"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/warthog/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Бородавочник наколол на клык сотрудницу парка дикой природы</title>
+  <link>https://lenta.ru/news/2022/06/14/warthog/</link>
+  <description>
+    <![CDATA[Разъяренный бородавочник напал на смотрительницу парка дикой природы в США. Животное атаковало женщину, когда та чистила его вольер, и накололо ее на клык. В результате сотрудница парка получила раны на руках и ноге. Ее госпитализировали. Врачи ожидают, что женщина полностью излечится от полученных травм. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 05:00:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/14/20220610141743924/pic_312ea5f82558554c0ecee86c04e4012b.jpg" type="image/jpeg" length="132189"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/all/</guid>
+  <author>Марина Совина</author>
+  <title>В Запорожской области обещали освободить всю ее территорию</title>
+  <link>https://lenta.ru/news/2022/06/14/all/</link>
+  <description>
+    <![CDATA[Член главного совета военно-гражданской администрации (ВГА) Запорожской области  Владимир Рогов заявил, что регион полностью освободят от украинских сил. «Стоит задача освободить полностью всю область и восстановить контроль над всей границей региона», — подчеркнул Рогов.<br />]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/04/20220614044125659/pic_8924a7e268ea52b368c20c83f155231d.jpg" type="image/jpeg" length="124878"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/ispytania/</guid>
+  <author>Марина Совина</author>
+  <title>Из-за ядерных испытаний КНДР США скорректируют военное присутствие в регионе</title>
+  <link>https://lenta.ru/news/2022/06/14/ispytania/</link>
+  <description>
+    <![CDATA[США знают о проведении подготовки к ядерным испытаниями Северной Кореей, Вашингтон согласовывает с союзниками меры реагирования и готов скорректировать в краткосрочной и долгосрочной перспективе свое военное присутствие в регионе. Об этом заявил госсекретарь Энтони Блинкен после встречи с главой МИД Южной Кореи.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/04/20220614044809258/pic_7d6d521a4186f2f6126a320444a71447.jpg" type="image/jpeg" length="26242"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/litva/</guid>
+  <author>Марина Совина</author>
+  <title>Литва оценила идею об отказе от признания независимости страны</title>
+  <link>https://lenta.ru/news/2022/06/14/litva/</link>
+  <description>
+    <![CDATA[Глава МИД Литвы Габриэлюс Ландсбергис оценил идею об отказе от признания независимости страны. «Я бы назвал это угрозой, прямой угрозой для Литвы, и мы воспринимаем все эти угрозы всерьез», — сказал министр, добавив, что Литва относится к инициативе с повышенным вниманием.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/04/20220614044214824/pic_3178a1213572fd323ef15d80e6137565.jpg" type="image/jpeg" length="37899"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/9m117/</guid>
+  <author>Даниил Иринин</author>
+  <title>В России оценили используемые на Украине «Арканы»</title>
+  <link>https://lenta.ru/news/2022/06/14/9m117/</link>
+  <description>
+    <![CDATA[В арсенал российских боевых машин десанта БМД-4 входят выстрелы «Аркан», пишет «Российская газета». Выстрел унитарного заряжания с противотанковой управляемой ракетой (ПТУР) 9М117М1-3 позволяет поражать бронетехнику, низколетящие цели и зависающие вертолеты. БМД-4 может вести огонь «Арканами» в движении.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:30:32 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/17/20220610170009328/pic_3d1406e00b53f61943bf62757757e80f.jpg" type="image/jpeg" length="166087"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/kill_husband/</guid>
+  <author>Марина Совина</author>
+  <title>Автор эссе «Как убить мужа» получила пожизненный срок за убийство мужа</title>
+  <link>https://lenta.ru/news/2022/06/14/kill_husband/</link>
+  <description>
+    <![CDATA[71-летняя писательница Нэнси Крэмптон-Брофи, автор эссе «Как убить мужа», получила пожизненный срок за убийство мужа Дэниела Брофи с правом условно-досрочного освобождения через 25 лет. Соответствующее решение вынес суд американского штата Орегон. 5 сентября 2018 года женщину арестовали по обвинению в убийстве.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/04/20220614042128481/pic_00fed66fb9365bae4fd415b6350c2843.jpg" type="image/jpeg" length="57219"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/biometria_podrostki/</guid>
+  <author>Марина Совина</author>
+  <title>Банк России одобрил сбор биометрии подростков с 14 лет</title>
+  <link>https://lenta.ru/news/2022/06/14/biometria_podrostki/</link>
+  <description>
+    <![CDATA[Банк России одобрил сбор биометрических данных подростков 14-18 лет, если это будет происходить в рамках закона. Таким образом регулятор прокомментировал законопроект о защите субъектов персональных данных россиян. В НСФР указали, что запрет исключит возможность подросткам обращаться в банк дистанционно.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:13:19 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614024711126/pic_7576ff432e21d4e8554bbf4c878266c6.jpg" type="image/jpeg" length="63395"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/trump/</guid>
+  <author>Марина Совина</author>
+  <title>Трамп заявил о попытке отказать ему в участии в следующих выборах</title>
+  <link>https://lenta.ru/news/2022/06/14/trump/</link>
+  <description>
+    <![CDATA[Бывший президент США Дональд Трамп заявил, что специальный комитет палаты представителей, который расследует штурм Капитолия, не позволяет ему баллотироваться на следующих выборах главы государства в 2024 году. Трамп отметил, что действия палаты представителей видит как стремление отказать ему в участии в выборах.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/03/20220614035202908/pic_554ed2c86c5564a7e5ff504d5af866c5.jpg" type="image/jpeg" length="37957"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/barelyswimwear/</guid>
+  <author>Алина Гостева</author>
+  <title>Незаметные бикини стали новым трендом</title>
+  <link>https://lenta.ru/news/2022/06/14/barelyswimwear/</link>
+  <description>
+    <![CDATA[Стилистки Миранда Холдер и Рошель Уайт назвали едва заметные бикини новым трендом. Холдер заявила, что откровенные фасоны купальников, которые обнажают бедра, ягодицы и большую часть груди, стали популярны благодаря знаменитостям. Так, подобные наряды часто выбирают участницы британского реалити-шоу Love Island.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:00:13 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/15/20220610155856552/pic_1d6cac5cab0844ab4aaaeee35ae3ed11.jpeg" type="image/jpeg" length="93086"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/pitanie/</guid>
+  <author>Елена Матвиенко</author>
+  <title>Диетолог назвала способ перестать переедать по вечерам</title>
+  <link>https://lenta.ru/news/2022/06/14/pitanie/</link>
+  <description>
+    <![CDATA[Диетолог Ольга Лушникова рассказала, как перестать переедать на ночь. По ее словам, причина ночного обжорства в недостаточном питании в течение дня. Чтобы избавиться от проблемы, диетолог посоветовала заранее составлять план приемов пищи и список покупок, а также не отказываться полностью от любимых продуктов.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 04:00:10 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/09/16/20220609162536100/pic_6673bf1ac8e86b3f301afb2db2991fb1.jpg" type="image/jpeg" length="154909"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/blog/</guid>
+  <author>Марина Совина</author>
+  <title>В России призвали регулировать блогерскую деятельность</title>
+  <link>https://lenta.ru/news/2022/06/14/blog/</link>
+  <description>
+    <![CDATA[Ответственный секретарь Совета по правам человека (СПЧ) при президенте России Александр Точенов рассказал, что, по его мнению, в стране необходимо заняться регулированием блогерской деятельности. По его словам, это не означает введения цензуры, однако «люди должны отвечать за свои слова и действия».]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 03:57:42 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/03/20220614035743402/pic_43282f835b2b356ebe12bc507e856859.jpg" type="image/jpeg" length="30114"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/skidki/</guid>
+  <author>Марина Совина</author>
+  <title>Российские торговые сети вернули традиционные скидки и акции на товары</title>
+  <link>https://lenta.ru/news/2022/06/14/skidki/</link>
+  <description>
+    <![CDATA[Российские торговые сети вернули традиционные скидки на товары после того, как ритейл принял решение отменить их в феврале из-за ажиотажного спроса. Акции распространяются на бакалею, мясные и молочные продукты, цены в текущем году могут оказаться даже ниже, чем в прошлом, в том числе за счет дисконта поставщиков.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 03:55:12 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614021711491/pic_78c577bef0e546e6c82a269b7d0dd6be.jpg" type="image/jpeg" length="54001"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/azov/</guid>
+  <author>Марина Совина</author>
+  <title>Житель Мариуполя рассказал о стрелявших по нему бойцах «Азова»</title>
+  <link>https://lenta.ru/news/2022/06/14/azov/</link>
+  <description>
+    <![CDATA[Житель Мариуполя Игорь Кирпота рассказал российским следователям, как бойцы батальона «Азов» стреляли по нему и его соседям, не давая тушить дом, а российские военные помогли эвакуироваться в Новоазовск. Также он отметил, что российские военные проявили готовность помочь мирным жителям.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 03:44:56 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/03/20220614033137119/pic_da094a7f6882d06e2bdbb2688749e9a5.jpg" type="image/jpeg" length="118197"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/more_help/</guid>
+  <author>Марина Совина</author>
+  <title>В ДНР запросили у России дополнительные союзнические силы</title>
+  <link>https://lenta.ru/news/2022/06/14/more_help/</link>
+  <description>
+    <![CDATA[Донецкая Народная Республика (ДНР) запрашивает у России дополнительные силы из-за растущего числа обстрелов Донецка Вооруженными силами Украины (ВСУ). Об этом заявил глава ДНР Денис Пушилин, отметив, что необходимо использовать возможности всех союзников. Его слова приводит РИА Новости.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 03:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614091432823/pic_e47b0eb042915c77a1a9099fd233c96f.jpg" type="image/jpeg" length="100142"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/gotov/</guid>
+  <author>Марина Совина</author>
+  <title>Во Франции рассказали о готовности Запада принудить Киев к уступкам России</title>
+  <link>https://lenta.ru/news/2022/06/14/gotov/</link>
+  <description>
+    <![CDATA[Французский портал AgoraVox заявил, что Запад изменил свою позицию относительно ситуации вокруг Украины и готов принудить Киев к территориальным уступкам России для дипломатического урегулирования. По словам автора материала, средствам массовой информации в США и Европе пришлось прекратить тиражировать фейки по поводу ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 03:32:57 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/03/20220614033000476/pic_3a12013b5583a67c19bd44e917e3aa8d.jpg" type="image/jpeg" length="11365"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sanction/</guid>
+  <author>Марина Совина</author>
+  <title>Названа возможная причина ослабления антироссийских санкций в ЕС</title>
+  <link>https://lenta.ru/news/2022/06/14/sanction/</link>
+  <description>
+    <![CDATA[Reuters назвало призыв Италии и Венгрии к скорейшему урегулированию на Украине возможной причиной ослабления санкций против России в Евросоюзе (ЕС). Неназванные чиновники и дипломаты рассказали изданию, что страны ЕС разделились во мнении по вопросу дальнейших действий в отношении Москвы.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 03:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/03/20220614031150642/pic_bd4c1c15e705639d22ba6e6b963b2cf4.jpg" type="image/jpeg" length="11717"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/dekret/</guid>
+  <author>Марина Совина</author>
+  <title>Россиянкам предложили дать возможность выбрать срок декрета без потери в деньгах</title>
+  <link>https://lenta.ru/news/2022/06/14/dekret/</link>
+  <description>
+    <![CDATA[Общественная палата России предложила молодым матерям дать право выбирать срок декретного отпуска без потери в деньгах. Согласно инициативе, для россиянок в этом случае сумма, которую они получат от работодателя, не изменится. Соответствующее предложение было направлено в Госдуму.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 03:06:19 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/03/20220614030556858/pic_6b0b80a446537a952326745c7aaf67a3.jpg" type="image/jpeg" length="137136"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/fly/</guid>
+  <author>Марина Совина</author>
+  <title>Стало известно о полетах самолетов «олигархов» из России в обход санкций</title>
+  <link>https://lenta.ru/news/2022/06/14/fly/</link>
+  <description>
+    <![CDATA[Изданию Welt стало известно о 30 случаях использования российскими частными самолетами воздушного пространства Евросоюза (ЕС), несмотря на введенные санкции. По информации газеты, с начала введения европейских санкций над территорией ЕС совершили полеты около 30 самолетов и вертолетов.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 02:55:15 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614025440402/pic_c5f7abcfe143f433f7923592958558fc.jpg" type="image/jpeg" length="15054"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sleep/</guid>
+  <author>Марина Совина</author>
+  <title>Раскрыт секрет хорошего сна</title>
+  <link>https://lenta.ru/news/2022/06/14/sleep/</link>
+  <description>
+    <![CDATA[Кардиолог, сомнолог, терапевт, врач функциональной диагностики, кандидат медицинских наук Екатерина Племянникова рассказала, что для хорошего сна нужно соблюдать ряд правил. Она посоветовала ложиться и вставать в одно и то же время, проветривать комнату, а также не есть и не использовать гаджеты за два часа до сна.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 02:48:28 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614024804226/pic_230df7df2f02dda8104cd208850c6fd5.jpg" type="image/jpeg" length="38749"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/lavrov_istorik/</guid>
+  <author>Марина Совина</author>
+  <title>В США обвинили власти в безумии после высказываний Лаврова</title>
+  <link>https://lenta.ru/news/2022/06/14/lavrov_istorik/</link>
+  <description>
+    <![CDATA[Американский историк, философ и лингвист Ноам Хомский обвинил власти США в безумии и назвал недопустимой цензуру в отношении представителей России, в том числе министра иностранных дел Сергея Лаврова. Он подчеркнул, что в Соединенных Штатах замалчивают информацию, которая не совпадает с позицией Вашингтона.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 02:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614022939651/pic_2fb1412eb51ce869ff8d96cd584c24da.jpg" type="image/jpeg" length="20970"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/gosdolg/</guid>
+  <author>Марина Совина</author>
+  <title>Два крупнейших в мире банка приостановили операции по госдолгу России</title>
+  <link>https://lenta.ru/news/2022/06/14/gosdolg/</link>
+  <description>
+    <![CDATA[Одни из крупнейших в мире банков — американские JPMorgan Chase и Goldman Sachs — приостановили операции по обслуживанию долговых обязательств России. Соответствующее решение было принято после соответствующего указания со стороны минфина США приостановить операции в данной сфере. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 02:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614023343617/pic_adf448a7df92802fd28e87594de405ae.jpg" type="image/jpeg" length="36978"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/swift/</guid>
+  <author>Марина Совина</author>
+  <title>Евросоюз отключит от SWIFT ряд российских банков</title>
+  <link>https://lenta.ru/news/2022/06/14/swift/</link>
+  <description>
+    <![CDATA[В рамках очередного пакета санкций против России Евросоюз отключит ряд банков от системы SWIFT. Так, с 14 июня от SWIFT отключат такие российские банки, как Сбербанк, Россельхозбанк и Московский кредитный банк (МКБ). В кредитных организациях заявили, что отсоединение не вызовет негативных последствий для их работы.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 02:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614023717470/pic_26df3dae8c687182f2d6419fd7d17f03.jpg" type="image/jpeg" length="14642"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/divorce/</guid>
+  <author>Алиса Дмитриева</author>
+  <title>Мужчина растил трех чужих детей, узнал об этом после теста ДНК и подал на развод</title>
+  <link>https://lenta.ru/news/2022/06/14/divorce/</link>
+  <description>
+    <![CDATA[Житель Китая решил развестись с женой после 16 лет брака, когда узнал о ее измене. Тест ДНК, который сделал мужчина, показал, что отцом всех трех его дочерей является другой человек. Жена китайца не раскаялась в содеянном. Она заявила, что люди часто усыновляют чужих детей, и это нормально. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 02:00:04 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/12/20220610123841975/pic_fa02923fcd0f6c7ec352a283bee3c407.jpeg" type="image/jpeg" length="18052"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/krym/</guid>
+  <author>Марина Совина</author>
+  <title>Отец унесенного в открытое море на матрасе ребенка назвал причину случившегося</title>
+  <link>https://lenta.ru/news/2022/06/14/krym/</link>
+  <description>
+    <![CDATA[Отец мальчика, которого унесло в открытое море на надувном матрасе в Крыму вместе с девочкой, назвал причину случившегося, заявив, что трагедия произошла из-за сильного ветра. Взрослые не смогли доплыть до детей. По его словам, спасатели прибыли на место происшествия лишь спустя полтора часа после случившегося. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614015428849/pic_72eabf51f3c525c8cfc28e5a640191db.jpg" type="image/jpeg" length="41635"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/pogibli/</guid>
+  <author>Марина Совина</author>
+  <title>Число погибших при обстреле в Донецке увеличилось до пяти человек</title>
+  <link>https://lenta.ru/news/2022/06/14/pogibli/</link>
+  <description>
+    <![CDATA[Число погибших при обстреле в Донецке увеличилось до пяти человек, поступила информация об еще одном мирном жителе, сообщили в СЦКК ДНР. Жертвой нанесенного по улице Экономической в Киевском районе города стал мужчина 1990 года рождения. Пострадали 33 человека, они получили ранения различной степени тяжести.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614014926449/pic_cee5ce11e4e7874a9895e7ac451a2d5c.jpg" type="image/jpeg" length="103936"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/biden_belarus/</guid>
+  <author>Марина Совина</author>
+  <title>Байден продлил санкции против властей Белоруссии</title>
+  <link>https://lenta.ru/news/2022/06/14/biden_belarus/</link>
+  <description>
+    <![CDATA[Президент США Джо Байден продлил режима односторонних санкций против властей Белоруссии. «Я продлеваю на один год режим национального чрезвычайного положения по отношению к Белоруссии», — заявил Байден в тексте уведомления, которое подписал в понедельник, 13 июня. Копию документа направили Конгрессу.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614014752987/pic_9807e726dcf6cf67a82e1a1fdb7653d4.jpg" type="image/jpeg" length="37978"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/postavki/</guid>
+  <author>Марина Совина</author>
+  <title>США «разрешили» Европе самостоятельно определять объемы поставок оружия Киеву</title>
+  <link>https://lenta.ru/news/2022/06/14/postavki/</link>
+  <description>
+    <![CDATA[Пресс-секретарь Белого дома Карин Жан-Пьер заявила, что европейские страны должны самостоятельно определять объемы поставок вооружения Киеву. По ее словам, западные государства продемонстрировали возможность действовать сплоченно, оказывая всю необходимую помощь Украине.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:37:40 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614013812770/pic_9ad79a26487b197c7ffe31ddfe4b7069.jpg" type="image/jpeg" length="56156"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/strawberry/</guid>
+  <author>Марина Совина</author>
+  <title>Назван способ выбрать сладкую клубнику</title>
+  <link>https://lenta.ru/news/2022/06/14/strawberry/</link>
+  <description>
+    <![CDATA[Доцент кафедры товароведения и товарной экспертизы РЭУ им. Г.В. Плеханова Ирина Махонина рассказала, как выбрать качественную клубнику. Махонина назвала способ выбрать сладкую клубнику и отметила, что это трудно сделать по внешнему виду ягод. Однако плоды ярко-красного цвета слаще темноокрашенных.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:32:56 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614012416847/pic_37b22ac52f936c803b7a68494925de8c.jpg" type="image/jpeg" length="105854"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/raspad/</guid>
+  <author>Марина Совина</author>
+  <title>Евросоюзу предрекли распад в случае вступления Украины</title>
+  <link>https://lenta.ru/news/2022/06/14/raspad/</link>
+  <description>
+    <![CDATA[Обозреватель Bloomberg Андреас Клут предрек Европейскому союзу (ЕС) распад в случае принятия Украины, Грузии и Албании. По его мнению, экономическая и судебная системы этих стран не готовы к их вступлению в состав политического объединения, также есть внутренние противоречия ЕС между расширением и интеграцией.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:32:40 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614013130134/pic_80bb51e3a4580bc2dfdd7a2f40da01f8.jpg" type="image/jpeg" length="19388"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/09/vyzviv/</guid>
+  <author>Валерий Розенберг</author>
+  <title>Выжившие в войнах российские солдаты описали свою жизнь</title>
+  <link>https://lenta.ru/news/2022/06/09/vyzviv/</link>
+  <description>
+    <![CDATA[По возвращении из зон боевых действий российские солдаты часто имеют проблемы с алкоголем, а также не могут устроиться на работу, из-за чего связываются с криминальными структурами и оказываются в местах лишения свободы. Об этом «Ленте.ру» рассказали россияне, прошедшие чеченские кампании и другие горячие точки.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:30:17 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/08/17/20220608175439568/pic_e0025d91d056b050c53d07bdd4535c1e.jpg" type="image/jpeg" length="56282"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/morocco/</guid>
+  <author>Марина Совина</author>
+  <title>Раскрыты подробности о приговоренном к смертной казни в ДНР наемнике</title>
+  <link>https://lenta.ru/news/2022/06/14/morocco/</link>
+  <description>
+    <![CDATA[Осужденный в Донецкой Народной Республике (ДНР) гражданин Марокко Брагим Саадун, который был наемником Киева, имеет гражданство Украины. «Он также указал, что имеет украинское гражданство, что является информацией, подтвержденной и его отцом», — рассказали в посольстве Марокко в Киеве.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:15:06 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614011522964/pic_585a54024ef254dcf6da057f54ca784e.jpg" type="image/jpeg" length="97247"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/sholtz_brexit/</guid>
+  <author>Марина Совина</author>
+  <title>Шольц анонсировал планы Евросоюза дать Британии единый ответ по изменению Brexit</title>
+  <link>https://lenta.ru/news/2022/06/14/sholtz_brexit/</link>
+  <description>
+    <![CDATA[Европейский союз даст единый ответ на проект Великобритании об изменении договора по выходу Соединенного Королевства из состава Евросоюза (Brexit). Об этом заявил канцлер Германии Олаф Шольц. Он назвал решение Лондона заслуживающим сожаления и необоснованным, пообещав единодушную реакцию ЕС.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/00/20220614005125698/pic_d2eca77234fef8c08ce4e418c1f20327.jpg" type="image/jpeg" length="34848"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/invest/</guid>
+  <author>Марина Совина</author>
+  <title>Американские конгрессмены захотели ограничить инвестиции в Китай</title>
+  <link>https://lenta.ru/news/2022/06/14/invest/</link>
+  <description>
+    <![CDATA[Конгресс США подготовил законопроект, по которому американские компании будут обязаны предоставлять данные об определенных видах инвестиций, которые впоследствии должны будут пройти проверку на то, отвечают ли они национальным интересам страны. Таким образом планируется ограничить инвестиции в экономику Китая.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/01/20220614010520966/pic_651c99b783c263d5115cade70a1977d0.jpg" type="image/jpeg" length="70374"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/toobig/</guid>
+  <author>Алина Гостева</author>
+  <title>Блогерша показала фигуру в бикини назло обозвавшим ее китом хейтерам</title>
+  <link>https://lenta.ru/news/2022/06/14/toobig/</link>
+  <description>
+    <![CDATA[Британская блогерша Оливия Николь Даффин, которую обзывали китом в сети, показала фигуру в купальнике назло хейтерам. В первой части видео девушка позировала в запахнутом халате с поясом. При этом на экране отобразились надписи «Ты слишком толстая», «Это тело не для бикини», «Она похожа на кита».]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 01:00:32 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/17/20220610173452292/pic_ac8f43bf5c2dac850c3e56872913802c.jpg" type="image/jpeg" length="66388"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/posol/</guid>
+  <author>Марина Совина</author>
+  <title>Посол заявил о борьбе России с желающими глобального доминирования силами</title>
+  <link>https://lenta.ru/news/2022/06/14/posol/</link>
+  <description>
+    <![CDATA[Посол России в Ереване Сергей Копыркин заявил, что РФ находится на переднем крае борьбы с силами, ориентированными на глобальное доминирование. Копыркин подчеркнул, что российску культуру в силу ее многонациональной природы отличает открытость и готовность к плодотворному взаимодействию с культурами других стран. ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:47:40 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/00/20220614004801278/pic_88a2cc2f61190cc626ad94c4790c37fe.jpg" type="image/jpeg" length="72107"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/medvedev_top/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Кафельников прокомментировал возвращение Медведевым статуса первой ракетки мира</title>
+  <link>https://lenta.ru/news/2022/06/14/medvedev_top/</link>
+  <description>
+    <![CDATA[Олимпийский чемпион Евгений Кафельников прокомментировал возвращение российским теннисистом Даниилом Медведевым статуса первой ракетки мира. «Насколько долго Даниил продержится на первом месте, зависит от него самого, от его результатов. Не думаю, что мотивация будет для него важнейшим фактором», — заявил он.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:41:47 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/00/20220614003956618/pic_294ea897a547b090e0deb9a7e69eeaa8.jpg" type="image/jpeg" length="54325"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/war/</guid>
+  <author>Марина Совина</author>
+  <title>В России заявили о конце глобализации и «холодной войне 2.0»</title>
+  <link>https://lenta.ru/news/2022/06/14/war/</link>
+  <description>
+    <![CDATA[Председатель правления банка ВТБ Андрей Костин заявил, банковскому сектору следует продолжать девалютизацию балансов, поскольку введенные против России санкции сохранятся на долгое время. По его мнению, эпоха глобализации закончилась. Эту ситуацию он назвал «холодной войной 2.0» ]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/02/20220614024740418/pic_c8555737ef8b83b314e66628b754eaaf.jpg" type="image/jpeg" length="65272"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/poltora_milliarda/</guid>
+  <author>Марина Совина</author>
+  <title>США решили направлять Украине по 1,5 миллиарда долларов ежемесячно</title>
+  <link>https://lenta.ru/news/2022/06/14/poltora_milliarda/</link>
+  <description>
+    <![CDATA[США будут направлять Украине по 1,5 миллиарда долларов ежемесячно для поддержания работы правительства, об этом сообщил первый заместитель помощника госсекретаря по делам Европы и Евразии Дерек Хоган. Он уточнил, что поддержка властей в Киеве является одним из приоритетов администрации президента США Джо Байдена.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/09/20220614091013159/pic_1d8a4f7191e143fc526ef7a44ab8a856.jpg" type="image/jpeg" length="52254"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/09/posledstv/</guid>
+  <author>Валерий Розенберг</author>
+  <title>Пережившие войны российские солдаты рассказали о последствиях для психики</title>
+  <link>https://lenta.ru/news/2022/06/09/posledstv/</link>
+  <description>
+    <![CDATA[Возвратившихся из зон боевых действий солдат еще долгое время преследуют посттравматические стрессовые расстройства, имеющие различные проявления. О последствиях войны для психики «Ленте.ру» рассказали российские солдаты, прошедшие первую, вторую чеченские кампании и другие горячие точки.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:30:34 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/08/17/20220608175735891/pic_a97fe4231b587a569919078997fd2f2d.jpg" type="image/jpeg" length="63761"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/explanation/</guid>
+  <author>Александр Еникеев</author>
+  <title>Объяснена нетерпимость к чужому мнению</title>
+  <link>https://lenta.ru/news/2022/06/14/explanation/</link>
+  <description>
+    <![CDATA[Психологи Университета Лос-Анджелеса объяснили, почему люди уверены, что их мнение единственное верное, в то время как другие взгляды они рассматривают как глубоко ошибочные и предвзятые. Причина так называемого наивного реализма лежит в области мозга, называемой гештальт-корой.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:30:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/16/20220610163058272/pic_c2c98024c8fa8f807715bcd7b62a5506.jpg" type="image/jpeg" length="78270"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/american/</guid>
+  <author>Марина Совина</author>
+  <title>Освобожденный в обмен на Ярошенко американец пожаловался на Россию в ООН</title>
+  <link>https://lenta.ru/news/2022/06/14/american/</link>
+  <description>
+    <![CDATA[Освобожденный из российской тюрьмы в обмен на российского летчика Константина Ярошенко американский студент Тревор Рид пожаловался на Россию в ООН. По данным представителя Рида Джонатана Фрэнкса, прошение было подано в рабочую группу ООН по незаконным арестам и требует расследование «незаконного» обращения.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:23:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/00/20220614002245005/pic_572796090b847e5895c1311edb4d37be.jpg" type="image/jpeg" length="62614"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/14/peregovory/</guid>
+  <author>Марина Совина</author>
+  <title>В США захотели добиться для Украины наилучшей позиции на переговорах</title>
+  <link>https://lenta.ru/news/2022/06/14/peregovory/</link>
+  <description>
+    <![CDATA[Пресс-секретарь Белого дома Карин Жан-Пьер заявила о стремлении США добиться мирного урегулирования ситуации на Украине. По ее словам, несмотря на то, что Москва не изъявляет желание вести диалог, Вашингтон прилагает все усилия для того, чтобы обеспечить Киеву наилучшую позицию на переговорах.]]>
+  </description>
+  <pubDate>Tue, 14 Jun 2022 00:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/00/20220614001044728/pic_4c112dbb43ef0328045363a1ccce1244.jpg" type="image/jpeg" length="28152"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/more_ukr/</guid>
+  <author>Марина Совина</author>
+  <title>В США призовут союзников продолжить поставку вооружений Украине</title>
+  <link>https://lenta.ru/news/2022/06/13/more_ukr/</link>
+  <description>
+    <![CDATA[Пресс-секретарь Белого дома Карин Жан-Пьер заявила, что министр обороны США Ллойд Остин намерен призвать союзников \продолжать военную поддержку Киева. «Министр обороны Остин на текущей неделе будет находиться с визитом в Европе, где у него состоится новый раунд переговоров контактной группы по Украине», — заявила она.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/14/00/20220614000333498/pic_49e6402f332fe84dc5891e7b51f5a589.jpg" type="image/jpeg" length="39466"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/plus/</guid>
+  <author>Марина Совина</author>
+  <title>В РАН исключили вступление Финляндии в НАТО без Швеции</title>
+  <link>https://lenta.ru/news/2022/06/13/plus/</link>
+  <description>
+    <![CDATA[Заведующий отделом европейской безопасности Института Европы РАН Дмитрий Данилов заявил, что вступление в НАТО без Швеции неприемлемо для Финляндии. «Это разрушит социально-политическую ситуацию в стране и поставит под вопрос весь политический процесс в дальнейшем», — подчеркнул сотрудник РАН.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613233144354/pic_fec5fc7bb252e588335f319925938184.jpg" type="image/jpeg" length="77203"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/zakrytie/</guid>
+  <author>Марина Совина</author>
+  <title>Фабрики Европы начали закрываться из-за отсутствия российских энергоносителей</title>
+  <link>https://lenta.ru/news/2022/06/13/zakrytie/</link>
+  <description>
+    <![CDATA[Некоторые европейские предприятия стали закрываться из-за отсутствия «дешевых» российских энергоносителей на рынке, об этом заявила газета The Wall Street Journal. Отмечается, что ряд фабрик не может выдержать конкуренции на мировом рынке с ближневосточными и американскими компаниями, для которых топливо дешевле.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613233340939/pic_f41d365a5b3362d1d8d865760dea71e6.jpg" type="image/jpeg" length="33721"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/georgia/</guid>
+  <author>Марина Совина</author>
+  <title>Грузия отказалась уступать Украине «очередь» в Евросоюз</title>
+  <link>https://lenta.ru/news/2022/06/13/georgia/</link>
+  <description>
+    <![CDATA[Премьер-министр Грузии Ираклий Гарибашвили заявил, что страна отказывается уступать Украине «очередь» в Евросоюз и больше заслуживет статус кандидата на вступление в ЕС. «Если открытый конфликт — один из критериев получения статуса, то мы так не хотим. Мы требуем заслуженного статуса», — заявил он. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613234135497/pic_ffc3e8a010368408e6724deb40b87455.jpg" type="image/jpeg" length="39181"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/zerno_prodazha/</guid>
+  <author>Марина Совина</author>
+  <title>США рассказали о стремлении пресечь продажу Россией вывезенного с Украины зерна</title>
+  <link>https://lenta.ru/news/2022/06/13/zerno_prodazha/</link>
+  <description>
+    <![CDATA[Официальный представитель Белого дома Карин Жан-Пьер заявила, что США проводят совместную работу с другими странами, чтобы не допустить продажи Россией зерна, поскольку, по мнению американской администрации, оно «могло быть украдено» у Украины в ходе специальной военной операции.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613233951254/pic_11ac43d8d0d11a592fc5f4361da32888.jpg" type="image/jpeg" length="21438"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/shesterkin/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Российский вратарь оценил шансы на получение приза лучшему игроку сезона НХЛ</title>
+  <link>https://lenta.ru/news/2022/06/13/shesterkin/</link>
+  <description>
+    <![CDATA[Российский голкипер «Нью-Йорк Рейнджерс» Игорь Шестеркин заявил, что не имеет шансов на получение приза «Харт Мемориал Трофи» лучшему игроку регулярного чемпионата Национальной хоккейной лиги. Он поборется за трофей с нападающим «Торонто Мэйпл Лифс» Остоном Мэтьюзом и форвардом «Эдмонтон Ойлерc» Коннором Макдэвидом.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613232854677/pic_29735271bc248ba0c8ac62678d2eef7f.jpg" type="image/jpeg" length="65392"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/poland/</guid>
+  <author>Марина Совина</author>
+  <title>Польша попросила у союзников старое вооружение вместо переданного Украине</title>
+  <link>https://lenta.ru/news/2022/06/13/poland/</link>
+  <description>
+    <![CDATA[Президент Польши Анджей Дуда заявил, что страна попросит у союзников подержанное вооружение вместо переданного Украине. «Мы передали, попросту говоря, свое. Мы не передавали со складов, не передавали от кого-то другого, а передали то, что имели, считая, что это необходимо», — заявил он.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613231753793/pic_bfa43b915c7c1b65e3e419bdeb989a9a.jpg" type="image/jpeg" length="32250"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/ek_brexit/</guid>
+  <author>Марина Совина</author>
+  <title>В Европе обеспокоились британским проектом изменения договора по Brexit</title>
+  <link>https://lenta.ru/news/2022/06/13/ek_brexit/</link>
+  <description>
+    <![CDATA[Европейская комиссия обеспокоена проектом Великобритании об изменении договора по Brexit, документ нарушает основные элементы протокола по Северной Ирландии, сообщил вице-президент ЕК Марош Шефчович. Он подчеркнул, что Еврокомиссия планирует оценить этот проект, поскольку он подрывает взаимное доверие.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613230925137/pic_7de4a3734c81617057b721b34ef0e22a.jpg" type="image/jpeg" length="47446"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/no_war/</guid>
+  <author>Марина Совина</author>
+  <title>Кадыров опубликовал призыв украинского военного никогда не воевать с чеченцами</title>
+  <link>https://lenta.ru/news/2022/06/13/no_war/</link>
+  <description>
+    <![CDATA[Глава Чеченской республики Рамзан Кадыров опубликовал видео, на котором пленный раненый украинский боевик призывает «никогда не воевать с чеченцами». Он также посоветовал тем, кто воюет на стороне Киева, одуматься и встать рядом с теми, кто стремится защитить украинский народ от западного порабощения.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 23:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613230953951/pic_c66b4625a0161119652963f6f9ff1db7.jpg" type="image/jpeg" length="65227"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/no_reaction/</guid>
+  <author>Марина Совина</author>
+  <title>Западные СМИ обвинили в отсутствии реакции на обстрел роддома в Донецке</title>
+  <link>https://lenta.ru/news/2022/06/13/no_reaction/</link>
+  <description>
+    <![CDATA[Первый заместитель постоянного представителя России при ООН Дмитрий Полянский обвинил крупные западные СМИ, в частности, BBC, Reuters и AFP в том, что они не освещают тему обстрела украинскими военными родильного дома в Донецке, при том, что активно писали про удары по роддому в Мариуполе.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613224723948/pic_fb621cbe2160470ab81b4e220ed4c493.jpg" type="image/jpeg" length="34167"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/problemy_sholtz/</guid>
+  <author>Марина Совина</author>
+  <title>Шольц заявил о серьезных проблемах в отказе от российских нефти и газа</title>
+  <link>https://lenta.ru/news/2022/06/13/problemy_sholtz/</link>
+  <description>
+    <![CDATA[Канцлер Германии Олаф Шольц заявил, что Берлин делает все возможное для снижения зависимости от нефти и газа из России, однако существуют «серьезные практические проблемы» в отказе от энергоносителей. Среди таких проблем политик обозначил работу нефтеперерабатывающего завода в Шведте, который использовал нефть из РФ.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613225107849/pic_dd4ea99c6a7e84f6dbdfc7ad14cc01f6.jpg" type="image/jpeg" length="10766"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/rbu/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Глава СБР отреагировал на поданную на него в прокуратуру жалобу</title>
+  <link>https://lenta.ru/news/2022/06/13/rbu/</link>
+  <description>
+    <![CDATA[Глава Союза биатлонистов России (СБР) Виктор Майгуров отреагировал на поданную на него в прокуратуру жалобу. Он заявил, что подаст встречный иск о защите чести и достоинства к каждому подписавшему жалобу, если она окажется официальным документом, а не предвыборной уткой. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613224610678/pic_d902bc13accd7ddb9cbe9747f8e862d7.jpg" type="image/jpeg" length="70234"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/billion/</guid>
+  <author>Марина Совина</author>
+  <title>США решили направлять Киеву по 1,5 миллиарда долларов ежемесячно</title>
+  <link>https://lenta.ru/news/2022/06/13/billion/</link>
+  <description>
+    <![CDATA[США решили направлять Киеву примерно по 1,5 миллиарда долларов ежемесячно для поддержания работы правительства, сообщил первый заместитель помощника государственного секретаря по делам Европы и Евразии Дерек Хоган. По его словам, прямая поддержка властей Киева — один из приоритетов администрации президента Джо Байдена.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613224642892/pic_d3c5187ec25aec4c4b599227cb070e77.jpg" type="image/jpeg" length="17965"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/ukr-es/</guid>
+  <author>Марина Совина</author>
+  <title>В Германии призвали Евросоюз отказаться от жалости к Украине</title>
+  <link>https://lenta.ru/news/2022/06/13/ukr-es/</link>
+  <description>
+    <![CDATA[Сложившаяся ситуация на Украине не должна стать поводом для вступления страны в Европейский союз (ЕС). «Жалость к раздираемой кризисом стране не должна повлиять на решение, кто станет кандидатом на вступление в ЕС. Наоборот, это скорее повод проявить осторожность», — подчеркивается в материале газеты Tagesspiegel.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/23/20220613230308373/pic_7d6a99529665cc17b76ce822b3aee594.jpg" type="image/jpeg" length="15359"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/lost/</guid>
+  <author>Марина Совина</author>
+  <title>В США обеспокоились из-за пропажи отправленных Киеву миллиардов долларов</title>
+  <link>https://lenta.ru/news/2022/06/13/lost/</link>
+  <description>
+    <![CDATA[Американские чиновники готовятся к возможному мошенничеству и расточительству средств, которые были выделены на поддержку Украине. WJS отмечает, что, по  мнению Джона Сопко, который следил за исполнением проектов по восстановлению Афганистана, миллиарды долларов, переданные Киеву, возможно, ожидает пропажа. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613223242978/pic_4977bf19b1a78a53ec4a2d4feaa02be6.jpg" type="image/jpeg" length="10077"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/china_help/</guid>
+  <author>Марина Совина</author>
+  <title>США испугались помощи Китая России</title>
+  <link>https://lenta.ru/news/2022/06/13/china_help/</link>
+  <description>
+    <![CDATA[Помощник президента США Джо Байдена по нацбезопасности Джейк Салливан встретился с главой канцелярии комиссии Центрального комитета Коммунистической партии Китая по иностранным делам, членом Политбюро Ян Цзечи, заявив ему об обеспокоенности Вашингтона возможной помощью Пекина Москве.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:26:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613222634213/pic_a212f6095a492fd81add837ff21a1b14.jpg" type="image/jpeg" length="33381"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/broker/</guid>
+  <author>Марина Совина</author>
+  <title>Американский брокер ввел ограничения для российских клиентов из-за санкций</title>
+  <link>https://lenta.ru/news/2022/06/13/broker/</link>
+  <description>
+    <![CDATA[Американский брокер Interactive Brokers (IBKR) ввел ограничения для граждан России и Белоруссии, а также юридических лиц этих стран из-за санкций Европейского союза (ЕС), клиенты не смогут открывать позиции с ценными бумагами. Ограничения вступают в силу по окончании рабочего дня в понедельник, 13 июня.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613221804362/pic_5659fd29d75849a3db03808f38e69f14.jpg" type="image/jpeg" length="16260"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/more/</guid>
+  <author>Марина Совина</author>
+  <title>США и G7 заявили о планах ужесточить санкции против России</title>
+  <link>https://lenta.ru/news/2022/06/13/more/</link>
+  <description>
+    <![CDATA[Старший заместитель помощника госсекретаря по европейским и евразийским делам Дерек Хоган заявил, что США и их партнеры по G7 намерены ужесточить санкции против России. «Мы очень активно работаем над тем, как нам усилить наш санкционный пакет. Мы делаем это в тесной координации со странами-членами G7», — заявил он.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:17:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613222014363/pic_39c2907263904906117cd692df23ab89.jpg" type="image/jpeg" length="22298"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/fertilizer/</guid>
+  <author>Марина Совина</author>
+  <title>США начали тайно подначивать компании увеличивать закупки российских удобрений</title>
+  <link>https://lenta.ru/news/2022/06/13/fertilizer/</link>
+  <description>
+    <![CDATA[Агентство Bloomberg со ссылкой на собственные источники сообщило, что власти США обеспокоены тем, что сельскохозяйственные и транспортные компании из-за излишней осторожности сильно снизили масштабы закупок удобрений у России, в связи с чем начали тайно подначивать их нарастить торговлю.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 22:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/22/20220613220344271/pic_5e934225a9f861793b44f4d5efb4bdc3.jpg" type="image/jpeg" length="37240"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/oon/</guid>
+  <author>Марина Совина</author>
+  <title>ООН сделала заявление после обстрелов Донецка со стороны ВСУ</title>
+  <link>https://lenta.ru/news/2022/06/13/oon/</link>
+  <description>
+    <![CDATA[Пресс-секретарь генерального секретаря ООН Стефан Дюжаррик сделал заявление после обстрелов Донецка со стороны Вооруженных сил Украины (ВСУ). По его словам, ООН призывает все стороны, участвующие в боевых действиях на Украине, соблюдать международное право и обеспечивать безопасность гражданского населения. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613215215131/pic_38de1cfd8994fd4ba37af49473aeceb6.jpg" type="image/jpeg" length="111019"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/main/</guid>
+  <author>Марина Совина</author>
+  <title>В Кремле назвали главную цель спецоперации России на Украине</title>
+  <link>https://lenta.ru/news/2022/06/13/main/</link>
+  <description>
+    <![CDATA[Пресс-секретарь президента России Владимира Путина Дмитрий Песков рассказал, в чем заключается главная цель спецоперации России на Украине.  «В целом защита ДНР и ЛНР — это главная цель специальной военной операции», — подчеркнул представитель Кремля. При этом он не ответил на вопрос о дополнительной поддержке ДНР.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613215540923/pic_07262b738b847c6b6f18c4257ac1c0a3.jpg" type="image/jpeg" length="31534"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/hiks/</guid>
+  <author>Марина Совина</author>
+  <title>США задумались над необходимым Украине в долгосрочной перспективе оружием</title>
+  <link>https://lenta.ru/news/2022/06/13/hiks/</link>
+  <description>
+    <![CDATA[США задумались над тем, какие вооружения необходимы Украине в долгосрочной перспективе. Об этом заявила первый заместитель главы Пентагона Кэтлин Хикс. По ее словам, Вашинтон решает, какого рода средства потребуются Киеву для этих целей, в том числе оружие и военная техника, а также подготовка личного состава.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613214556237/pic_ec56fb80fe3e44e76fdc0fbb6570cc00.jpg" type="image/jpeg" length="17020"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/dzyuba_mma/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Тренер Волкова порассуждал о перспективах Дзюбы в единоборствах</title>
+  <link>https://lenta.ru/news/2022/06/13/dzyuba_mma/</link>
+  <description>
+    <![CDATA[Тренер российского тяжеловеса Александра Волкова Тарас Кияшко порассуждал о перспективах футболиста Артема Дзюбы в смешанных единоборствах (ММА). «Он отлично бьет руками и ногами, да и ведет борьбу тоже неплохо. Если бы не футбол, то Дзюба стал бы отличным бойцом ММА», — поделился специалист. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613213839893/pic_376b7bff39f44a3be7dda7ee89aee818.jpg" type="image/jpeg" length="89388"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/compromiss/</guid>
+  <author>Марина Совина</author>
+  <title>Раскрыта позиция Турции на будущем саммите НАТО</title>
+  <link>https://lenta.ru/news/2022/06/13/compromiss/</link>
+  <description>
+    <![CDATA[Президент Турции Реджеп Тайип Эрдоган на саммите НАТО в Мадриде намерен заявить, что Турция не изменит свою позицию по «поддерживающим терроризм странам». Отмечается, что 17 июня управление коммуникаций при администрации президента страны проведет Брюсселе дискуссию, где обсудят «будущее НАТО после войны в Украине».]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613210732959/pic_5b00a405b8e95351e78a84486a56379e.jpg" type="image/jpeg" length="37933"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/rashody/</guid>
+  <author>Марина Совина</author>
+  <title>Военные расходы НАТО предложили увеличить из-за России</title>
+  <link>https://lenta.ru/news/2022/06/13/rashody/</link>
+  <description>
+    <![CDATA[Премьер-министры Великобритании и Португалии Борис Джонсон и Антониу Кошта сошлись во мнении, что в связи с продолжающейся российской военной спецоперацией на Украине необходимо увеличивать военные расходы НАТО, а также добиваться наращивания сотрудничества между странами-членами альянса.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:38:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613213859420/pic_661a02477f8f580ebc030013a23845fc.jpg" type="image/jpeg" length="17195"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/dnr_kiev/</guid>
+  <author>Марина Совина</author>
+  <title>В ДНР заявили об использовании Киевом запрещенных методов</title>
+  <link>https://lenta.ru/news/2022/06/13/dnr_kiev/</link>
+  <description>
+    <![CDATA[Глава Донецкой народной республики (ДНР) Денис Пушилин заявил, что Киев использует запрещенные методы ведения войны. «Противник в буквальном смысле слова перешел все грани. Используются запрещенные методы ведения войны. Обстреливаются спальные районы и центральные района города Донецка», — сказал он.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613212556243/pic_6a6f2627dd518ed20656c31b77232189.jpg" type="image/jpeg" length="86252"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/sankcii_opasenia/</guid>
+  <author>Марина Совина</author>
+  <title>В США снизилась поддержка антироссийских санкций на фоне внутренних проблем</title>
+  <link>https://lenta.ru/news/2022/06/13/sankcii_opasenia/</link>
+  <description>
+    <![CDATA[В США поддержка санкций против России снизилась среди населения из-за внутренних проблем страны. Об этом заявил директор Института демократии Патрик Бэшем. Он добавил, что в США общество разделилось по вопросу дальнейшего продолжения санкций, американцы опасаются перерастания ситуации в неконтролируемый кризис.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613212533670/pic_1e50fabc7392d2845a51ca7a9721f4b7.jpg" type="image/jpeg" length="30582"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/help/</guid>
+  <author>Марина Совина</author>
+  <title>ДНР запросила у России дополнительные силы</title>
+  <link>https://lenta.ru/news/2022/06/13/help/</link>
+  <description>
+    <![CDATA[Власти Донецкой народной республики (ДНР) запросили у России «дополнительные союзнические силы». Об этом сообщил глава ДНР Денис Пушилин. Он объяснил, что ДНР требуется дополнительная помощь России из-за участившихся обстрелов Донецка. По его словам, Киев перешел все грани. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613211458798/pic_68b8445cdfe7cec007bb3792eef22f85.jpg" type="image/jpeg" length="70839"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/moldavia/</guid>
+  <author>Марина Совина</author>
+  <title>Молдавия допустила отказ «Газпрома» от поставок газа</title>
+  <link>https://lenta.ru/news/2022/06/13/moldavia/</link>
+  <description>
+    <![CDATA[Министр инфраструктуры Молдавии Андрей Спыну допустил, что контракт страны с «Газпромом» оговаривает объемы поставок только до октября, поэтому есть риск, что осенью концерн значительно сократит объемы поставляемого топлива или откажется от поставок. По его словам, правительство должно быть готово к любому сценарию.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613211110906/pic_1bc68890a87f3d944b8f017764d4ae8b.jpg" type="image/jpeg" length="37549"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/heard/</guid>
+  <author>Марина Совина</author>
+  <title>Эмбер Херд дала первое интервью после суда с Джонни Деппом</title>
+  <link>https://lenta.ru/news/2022/06/13/heard/</link>
+  <description>
+    <![CDATA[Американская актриса Эмбер Херд в интервью телеканалу NBC рассказала об ощущениях от суда с бывшем мужем Джонни Деппом, на которым присяжные вынесли решение не в ее пользу. По словам Херд, она не держит зла на присяжных и понимает, почему те прониклись симпатией к ее экс-супругу.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/20/20220613205829146/pic_d70abda520c0f9a5c49253e3bfac02e6.jpg" type="image/jpeg" length="65291"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/tasnim_iran/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>При взрыве на заводе в Иране пострадали более 70 человек</title>
+  <link>https://lenta.ru/news/2022/06/13/tasnim_iran/</link>
+  <description>
+    <![CDATA[При взрыве на заводе в Иране пострадали 72 человека. Как уточняет Tasnim, инцидент произошел близ города Фирузабад, расположенного в южной провинции Фарс. Указывается, что предприятие, на котором прогремел взрыв, занималось производством карбоната натрия. В настоящий момент на месте работают экстренные службы.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/20/20220613205319128/pic_96168f1677ed7e894e13a71df933070c.jpg" type="image/jpeg" length="71273"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/akter/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>Умер актер дубляжа Станислав Войнич</title>
+  <link>https://lenta.ru/news/2022/06/13/akter/</link>
+  <description>
+    <![CDATA[В Петербурге на 49-году жизни умер актер дубляжа Станислав Войнич. По словам супруги актера, Войнич тяжело болел, что и стало причиной смерти. Несколько недель назад она опубликовала пост, в котором сообщила, что врачи не могут победить болезнь мужа. Актер скончался в кругу семьи 12 июня.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 21:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/21/20220613210039186/pic_c3b4aa1655591ad82c829d7c92841a60.jpg" type="image/jpeg" length="40032"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/snaryad/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Снаряд попал в родильный дом в Донецке</title>
+  <link>https://lenta.ru/news/2022/06/13/snaryad/</link>
+  <description>
+    <![CDATA[Украинский снаряд попал в здание родильного дома в Донецке. «Украинская артиллерия обстреляла Донецкий республиканский центр охраны материнства и детства по адресу улица Панфилова, 3 в Донецке», — рассказал корреспондент РИА Новости, добавив, что медработники оказывают необходимую помощь роженицам.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 20:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/20/20220613204605421/pic_842ebad506c6f5b567a7ea4cabcdef28.jpg" type="image/jpeg" length="30556"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/vstrecha/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>В России анонсировали новую встречу Путина и Лукашенко</title>
+  <link>https://lenta.ru/news/2022/06/13/vstrecha/</link>
+  <description>
+    <![CDATA[Посол России в Белоруссии Борис Грызлов анонсировал новую встречу президентов Владимира Путина и Александра Лукашенко во время торжественного приема по случаю Дня России, организованного в понедельник посольством Российской Федерации в Белоруссии. По его словам, встреча состоится в ближайшее время.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 20:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/20/20220613204225702/pic_df40ed5d591ecd0ec6603b9fab74b8a3.jpg" type="image/jpeg" length="98569"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/complain/</guid>
+  <author>Дарья Коршунова</author>
+  <title>На главу СБР подали жалобу в прокуратуру</title>
+  <link>https://lenta.ru/news/2022/06/13/complain/</link>
+  <description>
+    <![CDATA[Председатель совета Союза биатлонистов России (СБР) Александр Еслев подал жалобу в Генеральную прокуратуру РФ на главу организации Виктора Майгурова. По мнению членов совета, поступающие в бюджет СБР многомиллионные денежные средства от спонсоров и Министерства спорта РФ тратятся не по назначению.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 20:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/20/20220613201917494/pic_e68a10a42317031802b55ca22a439b59.jpg" type="image/jpeg" length="48382"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/idaho/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>Полиция США задержала намеревающихся устроить на гей-параде беспорядки радикалов</title>
+  <link>https://lenta.ru/news/2022/06/13/idaho/</link>
+  <description>
+    <![CDATA[Полиция США задержала радикалов, намеревающихся устроить беспорядки на гей-параде. Полицейские арестовали 31 члена предполагаемой националистической группировки «Патриотический фронт» в американском городке Кер-д'Ален, штат Айдахо. Среди вещей подозреваемых были найдены щиты, защитная амуниция и одна дымовая шашка.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 20:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/20/20220613201315240/pic_c90e4cdb19d7e36074433944c141baf9.jpg" type="image/jpeg" length="69612"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/brrrexit/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В Великобритании приготовились изменить договор по Brexit</title>
+  <link>https://lenta.ru/news/2022/06/13/brrrexit/</link>
+  <description>
+    <![CDATA[Министр иностранных дел Великобритании Лиз Трасс в понедельник, 13 июня, представила проект закона, который в одностороннем порядке изменит протокол по Северной Ирландии, являющийся частью соглашения по выходу Соединенного Королевства из состава Евросоюза (Brexit).]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 20:19:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/20/20220613201502283/pic_e9823c525c88adc800028aa9d1f64137.jpg" type="image/jpeg" length="74478"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/fencing/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Россию захотели исключить из Европейской конфедерации фехтования</title>
+  <link>https://lenta.ru/news/2022/06/13/fencing/</link>
+  <description>
+    <![CDATA[Президент Федерации фехтования России (ФФР) Ильгар Мамедов сообщил, что ряд членов Европейской конфедерации фехтования (EFC) собираются выступить с предложением о лишении России членства в организации. Он отметил, что для принятия решения необходимо набрать 75 процентов голосов.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 20:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613194044169/pic_916f2545840569b8e8029c0e936f9307.jpg" type="image/jpeg" length="58775"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/criminal_peterhoff/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Россиянин похитил школьницу из Петергофа и два месяца насиловал ее под Тверью</title>
+  <link>https://lenta.ru/news/2022/06/13/criminal_peterhoff/</link>
+  <description>
+    <![CDATA[19-летний мужчина похитил школьницу из Петергофа и два месяца удерживал ее взаперти и насиловал в Тверской области. Злоумышленник отобрал у школьницы телефон. На протяжении нескольких месяцев он дал ей несколько раз связаться с семьей, чтобы сообщить, что с ней все в порядке.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613193033468/pic_547055ec5598e144036dae9c10bbf2ca.jpg" type="image/jpeg" length="59562"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/erdogann/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Турция приступила к укладке газопровода на дне Черного моря</title>
+  <link>https://lenta.ru/news/2022/06/13/erdogann/</link>
+  <description>
+    <![CDATA[Турция в понедельник приступила к укладке газопровода на дне Черного моря у берегов страны. В торжественной церемонии принял участие турецкий президент Реджеп Тайип Эрдоган. В первом квартале 2023 года в газотранспортную систему страны поступит 10 млн кубометров газа. Пика добычи месторождение достигнет в 2026 году.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613195158691/pic_a02db3dd8a2eb7f63f42e8639500cc20.jpg" type="image/jpeg" length="52496"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/elephant/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>Слон затоптал женщину и напал на ее тело во время похорон</title>
+  <link>https://lenta.ru/news/2022/06/13/elephant/</link>
+  <description>
+    <![CDATA[В восточном штате Одиша, Индия, слон насмерть затоптал 70-летнюю женщину по имени Майя Мурму. Во время похорон семья Мурму совершала индуистские религиозные обряды, и перед тем, как зажечь погребальный костер, слон появился вновь. Он схватил труп, подбросил его в воздух и убежал.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:47:18 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613193918854/pic_c0cae122c5766e1807687ab7c2fe92af.jpg" type="image/jpeg" length="78572"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/obstrelrynok/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Число пострадавших при обстреле рынка в Донецке возросло до 18</title>
+  <link>https://lenta.ru/news/2022/06/13/obstrelrynok/</link>
+  <description>
+    <![CDATA[Число пострадавших при обстреле Вооруженными силами Украины (ВСУ) Майского рынка в Буденновском районе Донецка возросло до 18, сообщили в Совместном центре по контролю и координации режима прекращения огня (СЦКК) Донецкой народной республики (ДНР). Ранее сообщалось о 13 получивших ранения.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613193202066/pic_faf2ad2267ff60d4e541ebf53902d244.jpg" type="image/jpeg" length="77386"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/tennis/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Теннисистка-чемпионка рассказала о попытке покончить с собой</title>
+  <link>https://lenta.ru/news/2022/06/13/tennis/</link>
+  <description>
+    <![CDATA[Австралийская теннисистка Елена Докич рассказала, что пыталась покончить с собой весной 2022 года. Бывшая четвертая ракетка мира призналась, что была близка к самоубийству из-за расставания с партнером Тином Бикичем, с которым прожила вместе 19 лет. Она отметила, что ее спасло обращение за помощью к специалистам.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613191648633/pic_f8e3aaec6997b3c808627d79d4d1a6ac.jpg" type="image/jpeg" length="64128"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/kabmin_export/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Кабмин Украины запретил экспорт угля, мазута и газа местной добычи</title>
+  <link>https://lenta.ru/news/2022/06/13/kabmin_export/</link>
+  <description>
+    <![CDATA[Правительство Украины запретило экспорт угля, мазута и газа местной добычи. Соответствующее решение опубликовано на сайте украинского кабмина. Документ вносит изменения в постановление от 29 декабря 2021-го, установившее перечень товаров, экспорт и импорт которых подлежит лицензированию, и квоты на 2022 год. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613190548801/pic_6550d66f5641a3e8df88598c6a5219cf.jpg" type="image/jpeg" length="50091"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/otstavka/</guid>
+  <author>Анжелика Бережная</author>
+  <title>Комиссар ООН по правам человека заявила о намерении уйти в отставку</title>
+  <link>https://lenta.ru/news/2022/06/13/otstavka/</link>
+  <description>
+    <![CDATA[Верховный комиссар ООН по правам человека Мишель Бачелет заявила о намерении уйти в отставку на фоне недавней поездки в Китай, которая вызвала резкую критику со стороны активистов и западных политиков. «Знаменательная 50-я сессия совета станет последней, на которой я проведу брифинг», — сказала она.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/19/20220613190702665/pic_b65e09a083f2c44e67652f04fbe5ce36.jpg" type="image/jpeg" length="70655"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/iena_level/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Японская иена опустилась до рекордно низкого уровня</title>
+  <link>https://lenta.ru/news/2022/06/13/iena_level/</link>
+  <description>
+    <![CDATA[Японская иена опустилась до самого низкого за последние 24 года уровня. Так, курс национальной валюты к доллару в ходе утренней сессии торгов в понедельник, 13 июня, составлял 135,2 иены за доллар. Во второй половине дня курс валюты выровнялся до уровня 134,6 иены за доллар.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/18/20220613184338095/pic_57d99cf9d4e575fb2cef337e7cd014d4.jpg" type="image/jpeg" length="100200"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/zamena/</guid>
+  <author>Мария Сметанина</author>
+  <title>Оценены сроки замены иностранных самолетов на российские</title>
+  <link>https://lenta.ru/news/2022/06/13/zamena/</link>
+  <description>
+    <![CDATA[Нарастить серийное производство российских самолетов вместо иностранных возможно только при полной замене комплектующих. Об этом рассказал эксперт журнала «Арсенал отечества» Дмитрий Дрозденко. В разговоре с «Лентой.ру» он оценил сроки, которые могут для этого потребоваться.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 19:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/18/20220613184931586/pic_d9020e232fb8f4451ffc3dc76ad6f6b7.jpg" type="image/jpeg" length="72934"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/finish/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Первый небинарный спортсмен в истории Олимпийских игр завершил карьеру</title>
+  <link>https://lenta.ru/news/2022/06/13/finish/</link>
+  <description>
+    <![CDATA[Выступавшие в парном катании американские фигуристы Эшли Кейн-Гриббл и Тимоти Ледюк объявили о завершении карьеры. 32-летний Ледюк заявил, что намерен стать тренером, а 26-летняя Кейн-Гриббл будет выступать в ледовых шоу. На Олимпиаде в Пекине Ледюк стал первым в истории Игр небинарным фигуристом.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/18/20220613182622120/pic_73151b396e764cf5f7ffc38e919eca1e.jpg" type="image/jpeg" length="60540"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/lightyear/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>На Ближнем Востоке запретили мультфильм «Базз Лайтер» из-за однополого поцелуя</title>
+  <link>https://lenta.ru/news/2022/06/13/lightyear/</link>
+  <description>
+    <![CDATA[В странах Ближнего Востока, включая Саудовскую Аравию и Объединенные Арабские Эмираты, запретили показ мультфильма студии Pixar «Базз Лайтер» из-за персонажей, относящихся к ЛГБТК-сообществу. Запрет связан с однополым поцелуем персонажа Хоторн и ее возлюбленной. Изначально сцена была вырезана.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/18/20220613184021640/pic_172a6a659e6a11518f6d53100d0cca0e.jpg" type="image/jpeg" length="72179"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/frg_gazprom/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Германия выделит миллиарды долларов для спасения компании Gazprom Germania</title>
+  <link>https://lenta.ru/news/2022/06/13/frg_gazprom/</link>
+  <description>
+    <![CDATA[Правительство ФРГ планирует выделить миллиарды долларов для спасения компании «Газпром Германия» (Gazprom Germania GmbH). Финансовая помощь может быть предоставлена уже на этой неделе. Ожидается, что немецкая государственная банковская группа KfW выдаст «Газпром Германия» кредит в размере от 5 до 10 миллиардов евро.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/18/20220613181326260/pic_3a235388ba1291e9673b257354fa3eed.jpg" type="image/jpeg" length="83472"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/inspekciya/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Оператор «Северного потока» предупредил о сокращении подачи газа</title>
+  <link>https://lenta.ru/news/2022/06/13/inspekciya/</link>
+  <description>
+    <![CDATA[Оператор «Северного потока» предупредил о сокращении подачи газа, направляемого в хранилище из-за инспекции. Ежегодная инспекция Nord Stream 1 запланирована на 11 июля. Сейчас поток, идущий в Германию стабильный. Газохранилища страны заполнены на 54,22 процента, что выше, чем в 2015, 2017, 2018 и 2021 годах.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:22:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/18/20220613181040361/pic_c140a3df7460473dd02feb29b923de51.jpg" type="image/jpeg" length="104210"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/vietnam/</guid>
+  <author>Дарья Рыбак</author>
+  <title>Россиянка поехала во Вьетнам и раскрыла способ быстро «стать своей среди чужих»</title>
+  <link>https://lenta.ru/news/2022/06/13/vietnam/</link>
+  <description>
+    <![CDATA[Российская туристка побывала на отдыхе во Вьетнаме и рассказала, как можно быстро подружиться с местными жителями. По словам путешественницы, усталость от долгого перелета с пересадкой «моментально улетучилась» в отеле — туристка восхитилась красивой территорией, выполненной в стиле королевского дворца.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/10/16/20220610164439843/pic_db78354c889f347a353dc6bbeab536de.jpg" type="image/jpeg" length="40345"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/rus_zhilie/</guid>
+  <author>Алевтина Запольская</author>
+  <title>В России рекордно подешевело вторичное жилье</title>
+  <link>https://lenta.ru/news/2022/06/13/rus_zhilie/</link>
+  <description>
+    <![CDATA[Средняя стоимость жилья на вторичном рынке в России за май 2022 года снизилась на рекордные за несколько лет 2,1 процента. Этот рынок дешевеет в стране второй месяц подряд. Это объясняется разницей между объемами предложения и спроса. Весной 2022 года последний оказался рекордно низким из-за высокой ставки ЦБ.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613172704325/pic_d582cca39841dbcdb5f441bc8413c6a1.jpg" type="image/jpeg" length="139159"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/bitok/</guid>
+  <author>Мария Сметанина</author>
+  <title>Падение курса биткоина объяснили</title>
+  <link>https://lenta.ru/news/2022/06/13/bitok/</link>
+  <description>
+    <![CDATA[Падение биткоина до уровня 2020 года связано с техническими особенностями криптовалюты и ожиданием инвесторов решения по итогам заседания Федеральной резервной системы (ФРС) США. Причины изменения курса в беседе с «Лентой.ру» объяснил аналитик компании «Золотой монетный дом» Дмитрий Голубовский.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613174746055/pic_57f7eb3f72815c5588654b82e2267bd8.jpg" type="image/jpeg" length="98815"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/neft_india/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Россия стала вторым крупнейшим поставщиком нефти в Индию</title>
+  <link>https://lenta.ru/news/2022/06/13/neft_india/</link>
+  <description>
+    <![CDATA[Россия, опередив Саудовскую Аравию, в мае стала вторым после Ирака крупнейшим поставщиком нефти в Индию. Индийские нефтеперерабатывающие предприятия получали 819 тысяч баррелей российской нефти в день, что почти в три раза выше показателей за апрель. Весь май Дели импортировал 4,98 миллиона баррелей нефти в сутки.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 18:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613175919231/pic_8eeb827efb675b176900305c0c42c7c1.jpg" type="image/jpeg" length="77152"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/euroukr/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>Украина начала подготовку к «Евровидению-2023»</title>
+  <link>https://lenta.ru/news/2022/06/13/euroukr/</link>
+  <description>
+    <![CDATA[Украина начала подготовку к проведению песенного конкурса «Евровидение» в 2023 году, сообщил заместитель главы офиса президента страны Кирилл Тимошенко. В подготовке задействованы Минобороны и Министерство внутренних дел Украины. Тем не менее город, где будет проходить конкурс, он не назвал.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613175056749/pic_8c89c54295c951a55a820ceed86977ca.jpg" type="image/jpeg" length="108425"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/sevpotok_inspection/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Названа дата плановой инспекции газопровода «Северный поток»</title>
+  <link>https://lenta.ru/news/2022/06/13/sevpotok_inspection/</link>
+  <description>
+    <![CDATA[Плановая ежегодная инспекция газопровода «Северный поток» состоится 11 июля. Дату инспекции назвало Федеральное сетевое агентство Германии. Регулятор ФРГ уточнил, что во время инспекции трубопровод не сможет транспортировать газ на срок до двух недель, в этот период будет закачиваться меньше газа. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613174543228/pic_ed721e552edcc4ff32b75db712f5d5cc.jpg" type="image/jpeg" length="59993"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/serbia/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>В МИД Сербии заявили об отказе Белграда идти против Москвы</title>
+  <link>https://lenta.ru/news/2022/06/13/serbia/</link>
+  <description>
+    <![CDATA[Министр иностранных дел Сербии Никола Селакович заявил, что Белград не станет действовать против Москвы на фоне спецоперации. Он добавил, что конфликт стран является «войной между братьями» и отметил, что сербы разделяют с русскими и украинцами общие корни, культуру и духовность.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613174647545/pic_3d0d479939a5a3bf8f8ba50c80bb34aa.jpg" type="image/jpeg" length="67202"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/migrants/</guid>
+  <author>Варвара Кошечкина</author>
+  <title>В России оценили влияние санкций на находящихся в стране мигрантов</title>
+  <link>https://lenta.ru/news/2022/06/13/migrants/</link>
+  <description>
+    <![CDATA[Эксперты нескольких экономических отраслей оценили сообщения о массовом оттоке мигрантов из России на фоне действия санкций. Отмечается, что бюджет таких государств, как Таджикистан, Киргизия и Узбекистан, в значительной степени зависит от работающих за рубежом граждан.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613171008168/pic_594b1edd67860f91d2cf236416a841bd.jpg" type="image/jpeg" length="101838"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/russiannhl/</guid>
+  <author>Дарья Коршунова</author>
+  <title>Клуб НХЛ подписал контракт с россиянином</title>
+  <link>https://lenta.ru/news/2022/06/13/russiannhl/</link>
+  <description>
+    <![CDATA[Клуб Национальной хоккейной лиги (НХЛ) «Нью-Йорк Рейнджерс» объявил о подписании контракта с российским нападающим Виталием Кравцовым. 22-летний хоккеист заключил однолетнее соглашение с клубом. Отмечается, что контракт является односторонним, зарплата спортсмена составит 875 тысяч долларов.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613172440320/pic_e76af1b9dc1c5ffa5a4ce8c0dd289522.jpg" type="image/jpeg" length="75835"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/biden_pereizbranie/</guid>
+  <author>Анжелика Бережная</author>
+  <title>В США оценили шансы Байдена на переизбрание</title>
+  <link>https://lenta.ru/news/2022/06/13/biden_pereizbranie/</link>
+  <description>
+    <![CDATA[Президент США Джо Байден имеет низкие шансы на переизбрание из-за возраста и проблем со здоровьем. По словам редактора и основателя журнала The American Conservative Патрика Дж. Бьюкенена, Байдена вынудят снять свою кандидатуру на пост президента и уступить место более молодому кандидату.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613172827306/pic_41f298d08c93869048b08537cc9bfeef.jpg" type="image/jpeg" length="57552"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/phillips/</guid>
+  <author>Рузанна Акмалтдинова</author>
+  <title>Пропавший в лесах Амазонки британский журналист найден мертвым</title>
+  <link>https://lenta.ru/news/2022/06/13/phillips/</link>
+  <description>
+    <![CDATA[Пропавшие в тропических лесах Амазонки британский журналист Дом Филлипс и его проводник и эксперт по коренным народам Бруно Перейрой были найдены мертвыми. Это произошло после того, как поисковая группа обнаружила в воде вещи мужчин. Жена журналиста подтвердила, что найденное тело действительно принадлежит ее супругу.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613171614953/pic_d30f28959d311efce18a094c81627bec.jpg" type="image/jpeg" length="102401"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/finland_ua/</guid>
+  <author>Алевтина Запольская</author>
+  <title>Украинскую кукурузу смогли доставить в Испанию</title>
+  <link>https://lenta.ru/news/2022/06/13/finland_ua/</link>
+  <description>
+    <![CDATA[Финское судно Alppila доставило в Испанию груз украинской кукурузы, которую ранее не могли вывезти из страны из-за боевых действий. Партия объемом в 18 тысяч тонн стала первой после начала боевых действий, которую украинские власти смогли вывезти по новому маршруту через Балтийское море. ]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/17/20220613170830356/pic_e6cc7c3eee777856ebb8ad729cb023b8.jpg" type="image/jpeg" length="99986"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/news/2022/06/13/neozhidannost/</guid>
+  <author>Виктория Кондратьева</author>
+  <title>Соглашение между Россией и Никарагуа стало неожиданностью для США</title>
+  <link>https://lenta.ru/news/2022/06/13/neozhidannost/</link>
+  <description>
+    <![CDATA[Соглашение между Россией и Никарагуа о предоставлении российских войск в республике стало неожиданностью для США. По словам старшего научного сотрудника Института исследований внешней политики (FPRI) Стивена Бланка, оно может послужить основой для более прочного российского военного присутствия и за пределами страны.]]>
+  </description>
+  <pubDate>Mon, 13 Jun 2022 17:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2022/06/13/16/20220613161556761/pic_edcd00c91d0d5ef9eb122c68d7a7245e.jpg" type="image/jpeg" length="37980"/>
+  <category>Мир</category>
+</item>
+  </channel>
+</dss>
