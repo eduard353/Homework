@@ -9,38 +9,40 @@
 
 {% for d in data %}
 <div>
-<h3>{{d['Feed']}}</h3>
+<h3>Feed: {{d['Feed']}}</h3>
 <h4>
-    {{d['Title']}}
+    Title: {{d['Title']}}
 </h4>
 </div>
 <div>
-<p>
-    {{d['Description']}}
+<p> Description:
+    {% if d.get('Description') %}
+    {{d.get('Description')}}
+    {% else %}
+    No description
+    {% endif %}
 </p>
-<p>{{d['Date']}}</p>
+<p>Date: {{d['Date']}}</p>
 
 <p>
-    Link: <a href='{{d['Link']}}'>{{d['Link']}}</a>
+    Article link: <a href='{{d['Link']}}'>{{d['Link']}}</a>
 </p>
 </div>
 <div>
 {% if local %}
-<img src=  {{'file:///' + d['Media']}}>
+
+<img src=  {{'file:///'+ d['LocalImgLink']}}>
 {% else %}
 <img src={{d['Media']}} >
 {% endif %}
  </div>
 <div>
 <p>
-    Link: <a
-        href='{{d['Media']}}'>Image</a>
+    Image link: <a
+        href='{{d['Media']}}'>{{d['Media']}}</a>
 </p>
     </div>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<br><br><br><br><br>
 {% endfor %}
 
 </body>

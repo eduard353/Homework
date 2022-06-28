@@ -2,10 +2,19 @@ from jinja2 import Environment, FileSystemLoader
 import datetime
 from fpdf import FPDF, HTMLMixin
 from os import path
+from urllib.parse import urlparse
+from progress.bar import Bar
 
 
 class PDF(FPDF, HTMLMixin):
     pass
+
+
+def get_file_local_path(url):
+
+    local_path = path.join(path.abspath(path.dirname(__file__)), 'images', path.basename(urlparse(url).path))
+
+    return local_path
 
 
 def convert_to_html(data, local=False):
@@ -19,11 +28,13 @@ def convert_to_html(data, local=False):
 
 
     env = Environment(
-        loader=FileSystemLoader("templates"),
+        loader=FileSystemLoader(path.join(path.abspath(path.dirname(__file__)),"templates")),
 
     )
 
     template = env.get_template("template.html")
+
+
 
     html_string = template.render(data=data, local=local)
 
@@ -39,14 +50,14 @@ def save_to_html(html_string, dst_path=None):
 
     """
     if not dst_path:
-        dst_path = path.join(path.abspath(path.dirname(__file__)), 'output_files')
+        dst_path = path.abspath(path.dirname(__file__))
 
     with open(path.join(dst_path, str(datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S-%f")) + '.html'), 'w',
               encoding='utf-8') as f:
         f.write(html_string)
 
 
-def save_to_pdf(data, dst_path=None):
+def save_to_pdf(data, dst_path=None, local=False):
     """
     Function for saving a file in pdf format at the specified path
 
@@ -56,7 +67,7 @@ def save_to_pdf(data, dst_path=None):
     """
 
     if not dst_path:
-        dst_path = path.join(path.abspath(path.dirname(__file__)), 'output_files')
+        dst_path = path.abspath(path.dirname(__file__))
 
     pdf = PDF(orientation='P', unit='mm', format='A4')
     pdf.add_page()
@@ -71,32 +82,44 @@ def save_to_pdf(data, dst_path=None):
 
     pdf.set_font('Sans', size=12)
     pdf.set_auto_page_break(auto=True)
+    bar = Bar('Processing generate pdf', max=len(data))
+
 
     for d in data:    # Add data to PDF document
 
         pdf.set_font('Sans', style='B', size=12)
-        pdf.write(5, txt=d.get('Feed', 'No feed'))
+        pdf.write(5, txt='Feed: ' + d.get('Feed', 'No feed'))
         pdf.ln(10)
-        pdf.write(5, txt=d.get('Title', 'No Title'))
+        pdf.write(5, txt='Title: ' + d.get('Title', 'No Title'))
         pdf.ln(10)
         pdf.set_font('Sans', style='', size=10)
-        pdf.write(5, txt=d.get('Description', 'No description'))
+        desc = d.get('Description') if d.get('Description') else 'No description'
+        pdf.write(5, txt='Description: ' + desc)
         pdf.ln(5)
         pdf.set_font('Sans', style='I', size=8)
-        pdf.write(5, txt=d.get('Date', 'No date'))
+        pdf.write(5, txt='Date: ' + d.get('Date', 'No date'))
         pdf.ln(5)
         link = d.get('Link')
         if link:
             pdf.write_html(f'<p>Article link :<a href="{link}">{link}</a></p>')
         pdf.ln(5)
-        media_link = d.get('Media')
-        if media_link:
 
-            pdf.image(
-                media_link, w=70, type="", link=media_link
-            )
-            pdf.ln(5)
-            pdf.write_html(f'<p>Image link :<a href="{media_link}">{media_link}</a></p>')
+        media_link = path.join(path.abspath(path.dirname(__file__)), 'templates', 'NoImage.jpg')
+
+
+        if local:
+            media_link = d.get('LocalImgLink')
+
+        else:
+            media_link = d.get('Media')
+
+
+
+        pdf.image(media_link, w=70, type="", link=media_link)
+        pdf.ln(5)
+        pdf.write_html(f'<p>Image link :<a href="{media_link}">{d.get("Media")}</a></p>')
+
         pdf.ln(20)
-
+        bar.next()
+    bar.finish()
     pdf.output(path.join(dst_path, str(datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S-%f")) + '.pdf'))
