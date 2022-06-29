@@ -10,8 +10,15 @@ from parser_db import DataConn
 from converters import convert_to_html, save_to_html, save_to_pdf, get_file_local_path
 from os import path
 from progress.bar import Bar
+from colorama import Fore, init
+from pygments import highlight
+from pygments.lexers import JsonLexer
+from pygments.formatters import TerminalFormatter
 
-VERSION = '0.9.4'
+
+init(convert=True)
+
+VERSION = '0.9.5'
 
 # Dict of rss tags an their user-friendly names
 keys_dict = {
@@ -42,6 +49,8 @@ def parse_cli_args(commands=None):
     parser.add_argument('--version', action='version', version=VERSION)
     parser.add_argument('--json', action='store_true', help='Print result as JSON in stdout')
     parser.add_argument('--verbose', action='store_true', help='Outputs verbose status messages')
+    parser.add_argument('--colorize', action='store_true',
+                        help='That will print the result of the utility in colorized mode')
     parser.add_argument('--limit', type=int, help='Limit news topics if this parameter provided')
     parser.add_argument('--date', help='It should take a date in YearMonthDay format. For example: --date 20191020. '
                                        'The cashed news can be read with it. The new from the specified day will '
@@ -279,19 +288,32 @@ class ReadRss:
 
         return articles_dicts
 
-    def print_data(self):
+    def print_data(self, colorized=False):
         """Method of printing data to the command line"""
+        title_color = ''
+
+        value_color = ''
+        if colorized:
+            title_color = Fore.GREEN
+
+            value_color = Fore.CYAN
 
         for item in self.articles_dicts:
 
             for key in article_tags:
-                print(f'{key}: ', item.get(key, ''))
+
+                print(title_color + f'{key}: ', value_color + item.get(key, ''))
 
             print('-' * 60)
 
-    def print_json(self):
+    def print_json(self, colorized=False):
         """Method of printing data to the command line in JSON format"""
-        print(json.dumps(self.articles_dicts, ensure_ascii=False))
+        json_data = json.dumps(self.articles_dicts,sort_keys=True, indent=4, ensure_ascii=False)
+
+        if colorized:
+            print(highlight(json_data, JsonLexer(), TerminalFormatter()))
+        else:
+            print(json_data)
 
     @staticmethod
     def formatdata(data):
@@ -305,7 +327,8 @@ def run():
     """The main function that runs the program"""
     try:
         namespace = parse_cli_args()
-        print(namespace)
+
+
     except Exception as e:
         print('You have specified an invalid command line argument value.')
         print(e)
@@ -317,8 +340,10 @@ def run():
 
     if namespace.verbose:
         logging.basicConfig(level=logging.DEBUG, format="%(levelname)s %(asctime)s - %(message)s")
+
     else:
         logging.basicConfig(level=logging.INFO, format="%(levelname)s %(asctime)s - %(message)s")
+
 
     if namespace.date:
         namespace.date = parse(namespace.date).date().strftime('%Y.%m.%d')
@@ -329,9 +354,9 @@ def run():
     feed = ReadRss(remove_quots(namespace.source), namespace.limit, namespace.date)
 
     if namespace.json:
-        feed.print_json()
+        feed.print_json(namespace.colorize)
     else:
-        feed.print_data()
+        feed.print_data(namespace.colorize)
     if not namespace.date:
         with DataConn() as conn:
             bar = Bar('Processing load articles', max=len(feed.articles_dicts))

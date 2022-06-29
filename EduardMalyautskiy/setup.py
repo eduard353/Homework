@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='rss-reader',
-    version='0.9.4',
+    version='0.9.5',
     description='Pure Python command-line RSS reader.',
     author='Eduard Malyautskiy',
     python_requires=">=3.9",
@@ -10,6 +10,9 @@ setup(
     package_data={'': ['*.txt', '*.db', '*.ttf', '*.html', '*.jpg', '*.sql']
                   },
     install_requires=[
+
+'colorama==0.4.5',
+'Pygments==2.12.0',
 'beautifulsoup4==4.11.1',
 'bs4==0.0.1',
 'certifi==2022.6.15',
