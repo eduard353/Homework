@@ -32,7 +32,6 @@ keys_dict = {
     "enclosure": "Media",
     "image": 'Media',
 
-
 }
 
 # Tags for save to DB
@@ -98,8 +97,7 @@ def get_text_from_html(html):
         media_link = soup.find('img').get('src')
     else:
         media_link = None
-    return (soup.get_text(), media_link)
-
+    return soup.get_text(), media_link
 
 
 class ReadRss:
@@ -255,7 +253,8 @@ class ReadRss:
         :param tags: List of tags in articles
         :param limit: Count of article for display
         :param feed: Feed name
-        :return:
+        :param url: current feed url
+        :return: list of articles in dictionary format
         """
         articles_dicts = []
         for a in articles[:limit]:
@@ -300,7 +299,6 @@ class ReadRss:
                         else:
                             item_to_dict[new_tag] = text
 
-
                     item_to_dict['Feed'] = feed
                     item_to_dict['Url'] = url
                 except AttributeError:
@@ -324,14 +322,13 @@ class ReadRss:
         for item in self.articles_dicts:
 
             for key in article_tags:
-
                 print(title_color + f'{key}: ', value_color + item.get(key, ''))
 
             print('-' * 60)
 
     def print_json(self, colorized=False):
         """Method of printing data to the command line in JSON format"""
-        json_data = json.dumps(self.articles_dicts,sort_keys=True, indent=4, ensure_ascii=False)
+        json_data = json.dumps(self.articles_dicts, sort_keys=True, indent=4, ensure_ascii=False)
 
         if colorized:
             print(highlight(json_data, JsonLexer(), TerminalFormatter()))
@@ -351,7 +348,6 @@ def run():
     try:
         namespace = parse_cli_args()
 
-
     except Exception as e:
         print('You have specified an invalid command line argument value.')
         print(e)
@@ -366,7 +362,6 @@ def run():
 
     else:
         logging.basicConfig(level=logging.INFO, format="%(levelname)s %(asctime)s - %(message)s")
-
 
     if namespace.date:
         namespace.date = parse(namespace.date).date().strftime('%Y.%m.%d')

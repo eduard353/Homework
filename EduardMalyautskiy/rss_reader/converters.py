@@ -4,8 +4,6 @@ from fpdf import FPDF, HTMLMixin
 from os import path
 from urllib.parse import urlparse
 from progress.bar import Bar
-import json
-
 
 
 class PDF(FPDF, HTMLMixin):

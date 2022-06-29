@@ -10,11 +10,11 @@ from parser_db import DataConn
 from converters import save_to_pdf, save_to_html, get_file_local_path, convert_to_html
 
 
-
 class TestReadRss(unittest.TestCase):
 
     def setUp(self) -> None:
-        with open(path.join(path.abspath(path.dirname(__file__)), 'test_data', 'response.txt'), 'r', encoding='utf-8') as f:
+        with open(path.join(path.abspath(path.dirname(__file__)), 'test_data', 'response.txt'), 'r',
+                  encoding='utf-8') as f:
             response = f.read()
         soup = BeautifulSoup(response, 'xml')
 
@@ -27,8 +27,8 @@ class TestReadRss(unittest.TestCase):
             makedirs(path.join(path.abspath(path.dirname(__file__)), 'test_data', 'temp'))
 
     def tearDown(self) -> None:
-        if path.exists(path.join(path.abspath(path.dirname(__file__)),'rss_cache1.db')):
-            remove(path.join(path.abspath(path.dirname(__file__)),'rss_cache1.db'))
+        if path.exists(path.join(path.abspath(path.dirname(__file__)), 'rss_cache1.db')):
+            remove(path.join(path.abspath(path.dirname(__file__)), 'rss_cache1.db'))
         if path.exists(path.join(path.abspath(path.dirname(__file__)), 'test_data', 'temp')):
             shutil.rmtree(path.join(path.abspath(path.dirname(__file__)), 'test_data', 'temp'))
 
@@ -61,7 +61,6 @@ class TestReadRss(unittest.TestCase):
                             'test_data', 'data_in_html.html'), 'r', encoding='utf-8') as f:
             expect_html_string = f.read()
         self.assertEqual(html_string, expect_html_string)
-
 
     def test_remove_quots(self):
         """Test 'remove_quots' function """
@@ -156,12 +155,9 @@ class TestReadRss(unittest.TestCase):
 
         self.assertIsInstance(result, list)
 
-
-
         with open(path.join(path.abspath(path.dirname(__file__)),
                             'test_data', 'articles_in_json.txt'), 'r', encoding='utf-8') as f:
             articles_dicts = json.loads(f.read())
-
 
         self.assertListEqual(result, articles_dicts)
 
@@ -179,7 +175,7 @@ class TestReadRss(unittest.TestCase):
 
     def test_data_con(self):
         """Test for create empty DB"""
-        with DataConn(db_name=path.join(path.abspath(path.dirname(__file__)),'rss_cache1.db')) as conn:
+        with DataConn(db_name=path.join(path.abspath(path.dirname(__file__)), 'rss_cache1.db')) as conn:
             res = conn.execute('select count(*) from news').fetchone()[0]
-        self.assertTrue(path.exists(path.join(path.abspath(path.dirname(__file__)),'rss_cache1.db')))
+        self.assertTrue(path.exists(path.join(path.abspath(path.dirname(__file__)), 'rss_cache1.db')))
         self.assertEqual(res, 0)

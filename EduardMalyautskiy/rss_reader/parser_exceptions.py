@@ -9,6 +9,7 @@ class NotRSSException(Exception):
 class RequestProblem(Exception):
     pass
 
+
 class IncorrectPath(Exception):
     pass
 
