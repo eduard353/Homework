@@ -4,6 +4,7 @@ from fpdf import FPDF, HTMLMixin
 from os import path
 from urllib.parse import urlparse
 from progress.bar import Bar
+import json
 
 
 class PDF(FPDF, HTMLMixin):
@@ -11,7 +12,6 @@ class PDF(FPDF, HTMLMixin):
 
 
 def get_file_local_path(url):
-
     local_path = path.join(path.abspath(path.dirname(__file__)), 'images', path.basename(urlparse(url).path))
 
     return local_path
@@ -26,15 +26,12 @@ def convert_to_html(data, local=False):
     :return: HTML in string
     """
 
-
     env = Environment(
-        loader=FileSystemLoader(path.join(path.abspath(path.dirname(__file__)),"templates")),
+        loader=FileSystemLoader(path.join(path.abspath(path.dirname(__file__)), "templates")),
 
     )
 
     template = env.get_template("template.html")
-
-
 
     html_string = template.render(data=data, local=local)
 
@@ -51,16 +48,19 @@ def save_to_html(html_string, dst_path=None):
     """
     if not dst_path:
         dst_path = path.abspath(path.dirname(__file__))
-
-    with open(path.join(dst_path, str(datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S-%f")) + '.html'), 'w',
+    file_name = path.join(dst_path, str(datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S-%f")) + '.html')
+    with open(file_name, 'w',
               encoding='utf-8') as f:
         f.write(html_string)
+
+    return file_name
 
 
 def save_to_pdf(data, dst_path=None, local=False):
     """
     Function for saving a file in pdf format at the specified path
 
+    :param local: Flag for getting image local or from internet
     :param data: list of articles in dict format
     :param dst_path: path to save pdf file
 
@@ -72,20 +72,19 @@ def save_to_pdf(data, dst_path=None, local=False):
     pdf = PDF(orientation='P', unit='mm', format='A4')
     pdf.add_page()
     pdf.add_font("Sans", style="",
-                     fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-Regular.ttf"))
+                 fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-Regular.ttf"))
     pdf.add_font("Sans", style="B",
-                     fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-Bold.ttf"))
+                 fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-Bold.ttf"))
     pdf.add_font("Sans", style="I",
-                     fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-Italic.ttf"))
+                 fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-Italic.ttf"))
     pdf.add_font("Sans", style="BI",
-                     fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-BoldItalic.ttf"))
+                 fname=path.join(path.abspath(path.dirname(__file__)), 'templates', "NotoSans-BoldItalic.ttf"))
 
     pdf.set_font('Sans', size=12)
     pdf.set_auto_page_break(auto=True)
     bar = Bar('Processing generate pdf', max=len(data))
 
-
-    for d in data:    # Add data to PDF document
+    for d in data:  # Add data to PDF document
 
         pdf.set_font('Sans', style='B', size=12)
         pdf.write(5, txt='Feed: ' + d.get('Feed', 'No feed'))
@@ -106,14 +105,11 @@ def save_to_pdf(data, dst_path=None, local=False):
 
         media_link = path.join(path.abspath(path.dirname(__file__)), 'templates', 'NoImage.jpg')
 
-
         if local:
             media_link = d.get('LocalImgLink')
 
         else:
             media_link = d.get('Media')
-
-
 
         pdf.image(media_link, w=70, type="", link=media_link)
         pdf.ln(5)
@@ -122,4 +118,7 @@ def save_to_pdf(data, dst_path=None, local=False):
         pdf.ln(20)
         bar.next()
     bar.finish()
-    pdf.output(path.join(dst_path, str(datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S-%f")) + '.pdf'))
+    file_name = path.join(dst_path, str(datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S-%f")) + '.pdf')
+    pdf.output(file_name)
+
+    return file_name

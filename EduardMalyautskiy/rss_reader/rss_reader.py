@@ -52,6 +52,8 @@ def parse_cli_args(commands=None):
     parser.add_argument('--to_pdf', nargs='?', default=None, metavar='PATH',
                         help='Upload result to pdf-file in folder in PATH parameter,'
                              ' file name is current date with ms.')
+    parser.add_argument('--clear_cache', action='store_true', help='Delete data from cache DB.')
+
     return parser.parse_args(commands)
 
 
@@ -59,6 +61,18 @@ def print_and_exit(msg):
     """Function of message output and termination of program execution"""
     print(msg)
     sys.exit()
+
+
+def clear_db(db=path.join(path.abspath(path.dirname(__file__)), 'rss_cache.db')):
+    """
+    Method delete cached data from DB
+    :param db: DB path
+    """
+    with DataConn(db) as conn:
+        logging.debug(f'Start clearing DB. DB path: {db}')
+        conn.execute("DELETE FROM news")
+        conn.commit()
+        logging.debug(f'Clearing DB finished. DB path: {db}')
 
 
 def remove_quots(text):
@@ -93,7 +107,8 @@ class ReadRss:
             self.articles_dicts = ReadRss.items_to_dict(self.articles, self.tags, self.limit, self.feed)
 
     @staticmethod
-    def get_news_from_db(date, url=None, limit=None, db=path.join(path.abspath(path.dirname(__file__)),'rss_cache.db')):
+    def get_news_from_db(date, url=None, limit=None,
+                         db=path.join(path.abspath(path.dirname(__file__)), 'rss_cache.db')):
         """
         Method of getting data from the database
         :param date: Date of articles
@@ -116,8 +131,8 @@ class ReadRss:
             result = conn.execute(request_string).fetchall()
             if len(result) == 0:
                 print_and_exit('No data in cache DB')
-            for item in result:
 
+            for item in result:
                 article = dict()
 
                 article["Feed"] = item[1]
@@ -290,10 +305,15 @@ def run():
     """The main function that runs the program"""
     try:
         namespace = parse_cli_args()
+        print(namespace)
     except Exception as e:
         print('You have specified an invalid command line argument value.')
         print(e)
         sys.exit()
+
+    if namespace.clear_cache:
+        clear_db()
+        print_and_exit('Data from cache DB deleted.')
 
     if namespace.verbose:
         logging.basicConfig(level=logging.DEBUG, format="%(levelname)s %(asctime)s - %(message)s")
@@ -321,20 +341,20 @@ def run():
                                       article.get('Url', remove_quots(namespace.source))]).fetchone()
 
                 if entry is None:
-                    max_id = conn.execute('select max(id) from news').fetchone()[0]
+                    max_id = conn.execute('select max(id) from news').fetchone()
                     if max_id is None:
                         max_id = 0
-
+                    else:
+                        max_id = max_id[0]
 
                     try:
                         image = requests.get(article.get('Media')).content
                         local_link = get_file_local_path(article.get('Media'))
                         with open(local_link, "wb") as f:
+                            f.write(image)
 
-                                f.write(image)
                     except Exception:
                         local_link = path.join(path.abspath(path.dirname(__file__)), 'templates', 'NoImage.jpg')
-
 
                     conn.execute(
                         'insert into news(Feed, Title, Link, Date, Description, Source, Media, GUID, Url, LocalImgLink) '
@@ -371,8 +391,8 @@ def run():
         except IncorrectPath:
             print_and_exit('Incorrect path to save file.')
 
-        # except PermissionError:
-        #     print_and_exit('You do not have write access to the specified directory.')
+        except PermissionError:
+            print_and_exit('You do not have write access to the specified directory.')
 
 
 if __name__ == '__main__':
