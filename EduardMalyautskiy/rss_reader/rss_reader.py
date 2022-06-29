@@ -36,7 +36,7 @@ keys_dict = {
 }
 
 # Tags for save to DB
-article_tags = ["Feed", "Title", "Date", "Link", "Description", "Source", "Media", "GUID"]
+article_tags = ["Feed", "Title", "Date", "Link", "Description", "Media"]
 
 
 def parse_cli_args(commands=None):
@@ -118,7 +118,7 @@ class ReadRss:
 
             self.feed, self.articles = ReadRss.parse_rss(ReadRss.get_rss(rss_url))
             self.tags = ReadRss.get_tags(self.articles)
-            self.articles_dicts = ReadRss.items_to_dict(self.articles, self.tags, self.limit, self.feed)
+            self.articles_dicts = ReadRss.items_to_dict(self.articles, self.tags, self.limit, self.feed, self.url)
 
     @staticmethod
     def get_news_from_db(date, url=None, limit=None,
@@ -248,7 +248,7 @@ class ReadRss:
         return tags
 
     @staticmethod
-    def items_to_dict(articles, tags, limit=None, feed=None):
+    def items_to_dict(articles, tags, limit=None, feed=None, url=None):
         """
         Method converts a list of articles into a list of articles in dictionary format
         :param articles: List of articles
@@ -302,6 +302,7 @@ class ReadRss:
 
 
                     item_to_dict['Feed'] = feed
+                    item_to_dict['Url'] = url
                 except AttributeError:
                     print(f'Could not find tag "{tag}" in item. Skip it.')
 
