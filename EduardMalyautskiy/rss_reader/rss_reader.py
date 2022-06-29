@@ -184,8 +184,7 @@ class ReadRss:
         except Exception:
             print_and_exit(f'Error fetching the data from URL: {url}\n'
                            f'Check the correctness of the URL address')
-        # with open('response.txt', 'w', encoding='utf-8') as f:
-        #     f.write(response.text)
+
         return response
 
     @staticmethod
@@ -276,7 +275,7 @@ class ReadRss:
                     continue
                 try:
                     if a.find(tag):
-                        res = ReadRss.formatdata(str(a.find(tag).text))
+                        res = ReadRss.format_data(str(a.find(tag).text))
                         text = res[0]
                         if 'href' in a.find(tag).attrs:
                             item_to_dict[new_tag] = a.find(tag)['href']
@@ -305,8 +304,6 @@ class ReadRss:
                     print(f'Could not find tag "{tag}" in item. Skip it.')
 
             articles_dicts.append(item_to_dict)
-        # with open('articles_in_json.txt', 'w', encoding='utf-8') as f:
-        #     f.write(json.dumps(articles_dicts, ensure_ascii=False))
         return articles_dicts
 
     def print_data(self, colorized=False):
@@ -336,7 +333,7 @@ class ReadRss:
             print(json_data)
 
     @staticmethod
-    def formatdata(data):
+    def format_data(data):
         result = data.replace('\n', '').replace('\t', '').replace('<![CDATA[', '').replace(']]>', '').strip()
         result = get_text_from_html(result)
 

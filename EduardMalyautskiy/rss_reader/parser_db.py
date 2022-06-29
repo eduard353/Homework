@@ -4,7 +4,7 @@ from os import path
 
 class DataConn:
 
-    def __init__(self, db_name=path.join(path.abspath(path.dirname(__file__)),'rss_cache.db')):
+    def __init__(self, db_name=path.join(path.abspath(path.dirname(__file__)), 'rss_cache.db')):
         """Конструктор"""
         self.db_name = db_name
 
@@ -15,10 +15,9 @@ class DataConn:
         db_exists = path.exists(self.db_name)
         self.conn = sqlite3.connect(self.db_name)
         if not db_exists:
-            with open(path.join(path.abspath(path.dirname(__file__)),'db_schema.sql'), 'r') as f:
+            with open(path.join(path.abspath(path.dirname(__file__)), 'db_schema.sql'), 'r') as f:
                 schema = f.read()
                 self.conn.executescript(schema)
-
 
         return self.conn
 

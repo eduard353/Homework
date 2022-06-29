@@ -32,10 +32,6 @@ def convert_to_html(data, local=False):
 
     template = env.get_template("template.html")
 
-    # with open('data_for_html.txt', 'w', encoding='utf-8') as f:
-    #     for d in data:
-    #         f.write(json.dumps(d))
-    #         f.write('\n')
     html_string = template.render(data=data, local=local)
 
     return html_string
