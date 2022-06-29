@@ -5,9 +5,7 @@ create table if not exists news (
     Link text,
     Date text,
     Description text,
-    Source text,
     Media text,
-    GUID text,
     Url text,
     LocalImgLink text
 );

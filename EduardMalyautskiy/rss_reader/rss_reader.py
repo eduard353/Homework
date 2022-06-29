@@ -27,11 +27,11 @@ keys_dict = {
     "atom:link": "Link",
     "pubdate": "Date",
     "description": "Description",
-    "source": "Source",
     "media:content": "Media",
     "content": "Media",
     "enclosure": "Media",
-    "guid": "GUID"
+    "image": 'Media',
+
 
 }
 
@@ -94,7 +94,12 @@ def remove_quots(text):
 def get_text_from_html(html):
     """Function that returns only text from an HTML file (fragment)"""
     soup = BeautifulSoup(html, features="html.parser")
-    return soup.get_text()
+    if soup.find('img'):
+        media_link = soup.find('img').get('src')
+    else:
+        media_link = None
+    return (soup.get_text(), media_link)
+
 
 
 class ReadRss:
@@ -146,14 +151,11 @@ class ReadRss:
 
                 article["Feed"] = item[1]
                 article["Title"] = item[2]
-                article["Date"] = item[4]
                 article["Link"] = item[3]
+                article["Date"] = item[4]
                 article["Description"] = item[5]
-                article["Source"] = item[6]
-                article["Media"] = item[7]
-                article["GUID"] = item[8]
-
-                article['LocalImgLink'] = item[10]
+                article["Media"] = item[6]
+                article['LocalImgLink'] = item[8]
                 articles_dicts.append(article)
 
         return articles_dicts
@@ -184,7 +186,8 @@ class ReadRss:
         except Exception:
             print_and_exit(f'Error fetching the data from URL: {url}\n'
                            f'Check the correctness of the URL address')
-
+        # with open('response.txt', 'w', encoding='utf-8') as f:
+        #     f.write(response.text)
         return response
 
     @staticmethod
@@ -235,11 +238,12 @@ class ReadRss:
         """
 
         tags = set()
-        for tag in articles[0].contents:
+        for a in articles:
+            for tag in a.contents:
 
-            if tag == '\n' or tag.name is None:
-                continue
-            tags.add(tag.name)
+                if tag == '\n' or tag.name is None:
+                    continue
+                tags.add(tag.name)
 
         return tags
 
@@ -256,36 +260,54 @@ class ReadRss:
         articles_dicts = []
         for a in articles[:limit]:
 
-            item_to_dict = dict()
+            item_to_dict = {
+                "Feed": '',
+                "Title": '',
+                "Date": '',
+                "Link": '',
+                "Description": '',
+                "Media": path.join(path.abspath(path.dirname(__file__)), 'templates', 'NoImage.jpg'),
+                'Url': '',
+                'LocalImgLink': path.join(path.abspath(path.dirname(__file__)), 'templates', 'NoImage.jpg')
+            }
             for tag in tags:
                 if tag.lower() in keys_dict.keys():
                     new_tag = keys_dict[tag.lower()]
                 else:
-                    new_tag = tag
+                    continue
                 try:
-                    text = ReadRss.formatdata(str(a.find(tag).text))
+                    if a.find(tag):
+                        res = ReadRss.formatdata(str(a.find(tag).text))
+                        text = res[0]
+                        if 'href' in a.find(tag).attrs:
+                            item_to_dict[new_tag] = a.find(tag)['href']
+                        elif 'url' in a.find(tag).attrs:
+                            item_to_dict[new_tag] = a.find(tag)['url']
+                        elif tag == 'link':
+                            item_to_dict[new_tag] = a.find(tag).text.replace('\n', '').replace('\t', '')
+                        elif 'type' in a.find(tag).attrs and a.find(tag)['type'] == 'image/jpeg':
+                            item_to_dict[new_tag] = a.find(tag)['type']
+                        elif res[1]:
+                            item_to_dict['Media'] = res[1]
+
+                    else:
+                        text = None
+
                     if text is not None and text != '':
                         if tag.lower() == 'pubdate':
 
                             item_to_dict[new_tag] = parse(text).date().strftime('%Y.%m.%d')
                         else:
                             item_to_dict[new_tag] = text
-                        # item_to_dict[tag] = text
-                    elif 'href' in a.find(tag).attrs:
-                        item_to_dict[new_tag] = a.find(tag)['href']
-                    elif 'url' in a.find(tag).attrs:
-                        item_to_dict[new_tag] = a.find(tag)['url']
-                    elif tag == 'link':
-                        item_to_dict[new_tag] = a.find(tag).next_sibling.replace('\n', '').replace('\t', '')
-                    elif 'type' in a.find(tag).attrs and a.find(tag)['type'] == 'image/jpeg':
-                        item_to_dict[new_tag] = a.find(tag)['type']
+
 
                     item_to_dict['Feed'] = feed
                 except AttributeError:
                     print(f'Could not find tag "{tag}" in item. Skip it.')
 
             articles_dicts.append(item_to_dict)
-
+        # with open('articles_in_json.txt', 'w', encoding='utf-8') as f:
+        #     f.write(json.dumps(articles_dicts, ensure_ascii=False))
         return articles_dicts
 
     def print_data(self, colorized=False):
@@ -382,12 +404,10 @@ def run():
                         local_link = path.join(path.abspath(path.dirname(__file__)), 'templates', 'NoImage.jpg')
 
                     conn.execute(
-                        'insert into news(Feed, Title, Link, Date, Description, Source, Media, GUID, Url, LocalImgLink) '
-                        'values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
+                        'insert into news(Feed, Title, Link, Date, Description, Media, Url, LocalImgLink) '
+                        'values (?, ?, ?, ?, ?, ?, ?, ?)',
                         [article.get('Feed'), article.get('Title'), article.get('Link'), article.get('Date'),
-                         article.get('Description'),
-                         article.get('Source'), article.get('Media'), article.get('GUID'),
-                         remove_quots(namespace.source), local_link])
+                         article.get('Description'), article.get('Media'), remove_quots(namespace.source), local_link])
 
                 bar.next()
             bar.finish()

@@ -7,6 +7,7 @@ from progress.bar import Bar
 import json
 
 
+
 class PDF(FPDF, HTMLMixin):
     pass
 
@@ -33,6 +34,10 @@ def convert_to_html(data, local=False):
 
     template = env.get_template("template.html")
 
+    # with open('data_for_html.txt', 'w', encoding='utf-8') as f:
+    #     for d in data:
+    #         f.write(json.dumps(d))
+    #         f.write('\n')
     html_string = template.render(data=data, local=local)
 
     return html_string
@@ -109,7 +114,8 @@ def save_to_pdf(data, dst_path=None, local=False):
             media_link = d.get('LocalImgLink')
 
         else:
-            media_link = d.get('Media')
+            if d.get('Media'):
+                media_link = d.get('Media')
 
         pdf.image(media_link, w=70, type="", link=media_link)
         pdf.ln(5)

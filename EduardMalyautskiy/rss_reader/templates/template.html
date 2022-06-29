@@ -29,11 +29,11 @@
 </p>
 </div>
 <div>
-{% if local %}
+{% if local or d['LocalImgLink'] == d['Media']%}
 
-<img src=  {{'file:///'+ d['LocalImgLink']}}>
+<img width="400" src=  {{'file:///'+ d['LocalImgLink']}}>
 {% else %}
-<img src={{d['Media']}} >
+<img width="400" src={{d['Media']}} >
 {% endif %}
  </div>
 <div>

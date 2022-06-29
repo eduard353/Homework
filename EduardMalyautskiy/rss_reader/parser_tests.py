@@ -153,14 +153,15 @@ class TestReadRss(unittest.TestCase):
         """Test 'items_to_dict' method"""
 
         result = ReadRss.items_to_dict(self.articles, self.tags, feed=self.feed)
+
         self.assertIsInstance(result, list)
 
-        print(result[0])
+
 
         with open(path.join(path.abspath(path.dirname(__file__)),
                             'test_data', 'articles_in_json.txt'), 'r', encoding='utf-8') as f:
             articles_dicts = json.loads(f.read())
-        print(articles_dicts[0])
+
 
         self.assertListEqual(result, articles_dicts)
 
